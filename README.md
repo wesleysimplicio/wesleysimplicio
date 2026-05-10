@@ -119,6 +119,7 @@ principles:
 
 ## `connect`
 
+- Wesleysimplicio for any network, for everything
 - GitHub: [@wesleysimplicio](https://github.com/wesleysimplicio)
 
 ---
