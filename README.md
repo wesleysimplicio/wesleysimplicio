@@ -29,7 +29,7 @@ My goal is to contribute to humanity through practical AI work: tools that help 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/wesleysimplicio/simplicio-prompt">
-        <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-prompt/main/docs/assets/yool-v2-safe-speed-infographic-pt.png" alt="simplicio-prompt yool tuple HAMT infographic" width="100%" />
+        <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-prompt/main/docs/assets/yool-v2-safe-speed-infographic-pt.png" alt="simplicio-prompt yool tuple HAMT infographic in Portuguese" width="100%" />
       </a>
       <h3><a href="https://github.com/wesleysimplicio/simplicio-prompt">simplicio-prompt</a></h3>
       <p>Capability-addressing pattern for agent systems: yool, tuple-space, HAMT catalogs, guardrails, receipts, and reference kernels for large-scale agent orchestration.</p>
@@ -157,10 +157,20 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 ---
 
+## `mentor_acknowledgement`
+
+Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980), a California, USA native and author of 100+ scientific articles. His humanitarian and educational perspective on programming, AI, and scientific work has helped reinforce my own mission: build practical AI systems that advance human capability.
+
+---
+
 ## `connect`
 
 - GitHub: [@wesleysimplicio](https://github.com/wesleysimplicio)
 - Repositories: [github.com/wesleysimplicio?tab=repositories](https://github.com/wesleysimplicio?tab=repositories)
+- X: [@wesleysimplic](https://x.com/wesleysimplic)
+- Instagram: [@wesleysimplicio](https://instagram.com/wesleysimplicio)
+- LinkedIn: [wesleysimplicio](https://br.linkedin.com/in/wesleysimplicio)
+- YouTube: [@wesleysimplicio](https://www.youtube.com/@wesleysimplicio)
 
 <div align="center">
 
