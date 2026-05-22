@@ -190,30 +190,6 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="GitHub public stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top public languages" />
 
-### top repositories cards
-
-<a href="https://github.com/wesleysimplicio/us4-v6-simplicio-apple">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-apple&theme=tokyonight&hide_border=true&show_owner=true" alt="us4-v6-simplicio-apple repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/llm-project-mapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=llm-project-mapper&theme=tokyonight&hide_border=true&show_owner=true" alt="llm-project-mapper repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/hermes-turbo-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=hermes-turbo-agent&theme=tokyonight&hide_border=true&show_owner=true" alt="hermes-turbo-agent repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/simplicio-prompt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=simplicio-prompt&theme=tokyonight&hide_border=true&show_owner=true" alt="simplicio-prompt repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/PiAPI-Skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=PiAPI-Skills&theme=tokyonight&hide_border=true&show_owner=true" alt="PiAPI-Skills repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/marketing-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=marketing-engine&theme=tokyonight&hide_border=true&show_owner=true" alt="marketing-engine repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/x-bookmarks-panel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=x-bookmarks-panel&theme=tokyonight&hide_border=true&show_owner=true" alt="x-bookmarks-panel repo card" />
-</a>
-
 ### stars history across top projects
 
 <a href="https://star-history.com/#wesleysimplicio/us4-v6-simplicio-apple&wesleysimplicio/llm-project-mapper&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/marketing-engine&wesleysimplicio/x-bookmarks-panel&Date">
