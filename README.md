@@ -165,66 +165,32 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 ## `github_analytics`
 
-<div align="center">
+### ⭐ project star ranking
 
-### profile overview
+| Rank | Project | Stars | Forks | Focus |
+|---:|---|---:|---:|---|
+| 1 | [us4-v6-simplicio-apple](https://github.com/wesleysimplicio/us4-v6-simplicio-apple) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/us4-v6-simplicio-apple?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/us4-v6-simplicio-apple?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
+| 2 | [llm-project-mapper](https://github.com/wesleysimplicio/llm-project-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/llm-project-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/llm-project-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Project mapping for LLMs |
+| 3 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
+| 4 | [simplicio-prompt](https://github.com/wesleysimplicio/simplicio-prompt) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-prompt?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-prompt?style=flat-square&label=forks&logo=github&color=38bdf8) | Agent capability-addressing pattern |
+| 5 | [PiAPI-Skills](https://github.com/wesleysimplicio/PiAPI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/PiAPI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/PiAPI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | AI media generation skills |
+| 6 | [marketing-engine](https://github.com/wesleysimplicio/marketing-engine) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/marketing-engine?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/marketing-engine?style=flat-square&label=forks&logo=github&color=38bdf8) | AI marketing automation pipeline |
+| 7 | [x-bookmarks-panel](https://github.com/wesleysimplicio/x-bookmarks-panel) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=forks&logo=github&color=38bdf8) | Local-first X bookmarks workflow |
+| 8 | [WaveSpeedAI-Skills](https://github.com/wesleysimplicio/WaveSpeedAI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | WaveSpeedAI agent skills |
+| 9 | [x-virality-skills](https://github.com/wesleysimplicio/x-virality-skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/x-virality-skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/x-virality-skills?style=flat-square&label=forks&logo=github&color=38bdf8) | X virality optimization skill |
+| 10 | [asolaria-behcs-256](https://github.com/wesleysimplicio/asolaria-behcs-256) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/asolaria-behcs-256?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/asolaria-behcs-256?style=flat-square&label=forks&logo=github&color=38bdf8) | Cryptography research fork/work |
+| 11 | [us4-v6-simplicio-windows](https://github.com/wesleysimplicio/us4-v6-simplicio-windows) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/us4-v6-simplicio-windows?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/us4-v6-simplicio-windows?style=flat-square&label=forks&logo=github&color=38bdf8) | Windows local LLM runtime |
+| 12 | [hermes-agent](https://github.com/wesleysimplicio/hermes-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Agent runtime/orchestration |
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleysimplicio&theme=tokyonight" alt="Profile details summary" width="90%" />
+### public profile signals
 
-<img src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="GitHub public stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top public languages" height="180" />
+![Public repos](https://img.shields.io/github/followers/wesleysimplicio?style=flat-square&label=followers&logo=github&color=0f172a)
+![Profile views](https://komarev.com/ghpvc/?username=wesleysimplicio&style=flat-square&color=0f172a)
+![GitHub stars](https://img.shields.io/github/stars/wesleysimplicio/us4-v6-simplicio-apple?style=flat-square&label=top%20repo%20stars&logo=github&color=facc15)
 
-### top repositories (stars, forks, language)
-
-<a href="https://github.com/wesleysimplicio/simplicio-prompt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=simplicio-prompt&theme=tokyonight&hide_border=true&show_owner=true" alt="simplicio-prompt repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/llm-project-mapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=llm-project-mapper&theme=tokyonight&hide_border=true&show_owner=true" alt="llm-project-mapper repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/us4-v6-simplicio-apple">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-apple&theme=tokyonight&hide_border=true&show_owner=true" alt="us4-v6-simplicio-apple repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/us4-v6-simplicio-windows">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-windows&theme=tokyonight&hide_border=true&show_owner=true" alt="us4-v6-simplicio-windows repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/PiAPI-Skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=PiAPI-Skills&theme=tokyonight&hide_border=true&show_owner=true" alt="PiAPI-Skills repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=WaveSpeedAI-Skills&theme=tokyonight&hide_border=true&show_owner=true" alt="WaveSpeedAI-Skills repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/marketing-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=marketing-engine&theme=tokyonight&hide_border=true&show_owner=true" alt="marketing-engine repo card" />
-</a>
-<a href="https://github.com/wesleysimplicio/hermes-turbo-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=hermes-turbo-agent&theme=tokyonight&hide_border=true&show_owner=true" alt="hermes-turbo-agent repo card" />
-</a>
-
-### contribution activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="90%" />
-
-### streak and productivity
-
-<img src="https://streak-stats.demolab.com?user=wesleysimplicio&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub weekly streak" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleysimplicio&theme=tokyonight&utcOffset=-3" alt="Productive time of day" height="180" />
-
-### trophies and milestones
-
-<img src="https://github-profile-trophy.vercel.app/?username=wesleysimplicio&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" width="90%" />
-
-### language and repository summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleysimplicio&theme=tokyonight" alt="Repos per language" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleysimplicio&theme=tokyonight" alt="Most commits by language" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleysimplicio&theme=tokyonight" alt="Overall stats summary" width="44%" />
-
-</div>
-
-> Public stars, forks, languages, streak, trophies, and contribution summaries update automatically.
-> WakaTime was removed because it depends on external account/data visibility and may break or render as empty in a public GitHub profile.
-> Clone counts and release download counts come from the GitHub Traffic API, which requires push-access auth (`repo` scope) and only returns the last 14 days, so they cannot be embedded directly in a public profile README.
+> Ranking focused on highlighted public projects. Star and fork badges update automatically from GitHub.
+> Unstable third-party analytics cards were removed from this section to avoid broken images in the public profile README.
+> Clone counts and release download counts require GitHub Traffic API authentication and cannot be embedded directly in a public README.
 
 ---
 
