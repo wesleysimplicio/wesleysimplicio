@@ -167,64 +167,64 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 <div align="center">
 
+### profile overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleysimplicio&theme=tokyonight" alt="Profile details summary" width="90%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="GitHub public stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top public languages" height="180" />
+
 ### top repositories (stars, forks, language)
 
 <a href="https://github.com/wesleysimplicio/simplicio-prompt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=simplicio-prompt&theme=tokyonight&hide_border=true" alt="simplicio-prompt repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=simplicio-prompt&theme=tokyonight&hide_border=true&show_owner=true" alt="simplicio-prompt repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/llm-project-mapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=llm-project-mapper&theme=tokyonight&hide_border=true" alt="llm-project-mapper repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=llm-project-mapper&theme=tokyonight&hide_border=true&show_owner=true" alt="llm-project-mapper repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/us4-v6-simplicio-apple">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-apple&theme=tokyonight&hide_border=true" alt="us4-v6-simplicio-apple repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-apple&theme=tokyonight&hide_border=true&show_owner=true" alt="us4-v6-simplicio-apple repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/us4-v6-simplicio-windows">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-windows&theme=tokyonight&hide_border=true" alt="us4-v6-simplicio-windows repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=us4-v6-simplicio-windows&theme=tokyonight&hide_border=true&show_owner=true" alt="us4-v6-simplicio-windows repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/PiAPI-Skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=PiAPI-Skills&theme=tokyonight&hide_border=true" alt="PiAPI-Skills repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=PiAPI-Skills&theme=tokyonight&hide_border=true&show_owner=true" alt="PiAPI-Skills repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=WaveSpeedAI-Skills&theme=tokyonight&hide_border=true" alt="WaveSpeedAI-Skills repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=WaveSpeedAI-Skills&theme=tokyonight&hide_border=true&show_owner=true" alt="WaveSpeedAI-Skills repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/marketing-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=marketing-engine&theme=tokyonight&hide_border=true" alt="marketing-engine repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=marketing-engine&theme=tokyonight&hide_border=true&show_owner=true" alt="marketing-engine repo card" />
 </a>
 <a href="https://github.com/wesleysimplicio/hermes-turbo-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=hermes-turbo-agent&theme=tokyonight&hide_border=true" alt="hermes-turbo-agent repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wesleysimplicio&repo=hermes-turbo-agent&theme=tokyonight&hide_border=true&show_owner=true" alt="hermes-turbo-agent repo card" />
 </a>
 
-### stars history across main projects
+### contribution activity
 
-<a href="https://star-history.com/#wesleysimplicio/simplicio-prompt&wesleysimplicio/llm-project-mapper&wesleysimplicio/us4-v6-simplicio-apple&wesleysimplicio/us4-v6-simplicio-windows&wesleysimplicio/PiAPI-Skills&wesleysimplicio/WaveSpeedAI-Skills&wesleysimplicio/marketing-engine&wesleysimplicio/hermes-turbo-agent&Date">
-  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/simplicio-prompt,wesleysimplicio/llm-project-mapper,wesleysimplicio/us4-v6-simplicio-apple,wesleysimplicio/us4-v6-simplicio-windows,wesleysimplicio/PiAPI-Skills,wesleysimplicio/WaveSpeedAI-Skills,wesleysimplicio/marketing-engine,wesleysimplicio/hermes-turbo-agent&type=Date&theme=dark" alt="Star history across main repositories" width="90%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="90%" />
 
-### contribution activity graph
+### streak and productivity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity%20(commits%20%2F%20PRs%20%2F%20issues)" alt="Contribution activity graph" width="90%" />
-
-### streak and productive time
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleysimplicio&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wesleysimplicio&theme=tokyonight&hide_border=true&layout=compact" alt="Most used languages by time" height="180" />
+<img src="https://streak-stats.demolab.com?user=wesleysimplicio&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub weekly streak" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleysimplicio&theme=tokyonight&utcOffset=-3" alt="Productive time of day" height="180" />
 
 ### trophies and milestones
 
-<img src="https://github-profile-trophy.vercel.app/?username=wesleysimplicio&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies (stars, commits, repos, followers, issues, PRs)" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=wesleysimplicio&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" width="90%" />
 
-### profile summary
+### language and repository summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleysimplicio&theme=tokyonight" alt="Profile details summary" width="44%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleysimplicio&theme=tokyonight" alt="Repos per language" width="44%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleysimplicio&theme=tokyonight" alt="Most commits by language" width="44%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleysimplicio&theme=tokyonight" alt="Overall stats summary" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleysimplicio&theme=tokyonight&utcOffset=-3" alt="Productive time of day" width="90%" />
 
 </div>
 
-> Stars and forks are public and update automatically above.
-> Clone counts and release download counts come from the GitHub Traffic API, which requires push-access auth (`repo` scope) and only returns the last 14 days, so they cannot be embedded directly in a public profile README. The `top repositories` cards above already show stars and forks per repo as the public proxy for popularity.
+> Public stars, forks, languages, streak, trophies, and contribution summaries update automatically.
+> WakaTime was removed because it depends on external account/data visibility and may break or render as empty in a public GitHub profile.
+> Clone counts and release download counts come from the GitHub Traffic API, which requires push-access auth (`repo` scope) and only returns the last 14 days, so they cannot be embedded directly in a public profile README.
 
 ---
 
