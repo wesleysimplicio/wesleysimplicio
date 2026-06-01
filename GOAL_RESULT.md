@@ -2,11 +2,27 @@
 
 ## Summary
 
-Refreshed the GitHub profile README to present Wesley Simplicio as an AI systems builder focused on agent orchestration, local-first runtimes, AI tooling, and practical automation. The README now highlights the requested repositories and related public work with images sourced from their READMEs and direct GitHub links.
+Expanded the GitHub profile README into the requested language set: English, Portuguese, Spanish, Japanese, Korean, Simplified Chinese, Italian, French, Russian, Polish, Hindi, Arabic, Hebrew, Malay, and Indonesian.
+
+Each README now includes a language selector, localized profile copy, the same featured project cards, the same recent public repository table, and the same GitHub analytics/star-history configuration. The public top 10 star ranking was refreshed from the GitHub public API on 2026-06-01.
 
 ## Changed Files
 
 - `README.md`
+- `README.pt-BR.md`
+- `README.es.md`
+- `README.ja.md`
+- `README.ko.md`
+- `README.zh-CN.md`
+- `README.it.md`
+- `README.fr.md`
+- `README.ru.md`
+- `README.pl.md`
+- `README.hi.md`
+- `README.ar.md`
+- `README.he.md`
+- `README.ms.md`
+- `README.id.md`
 - `PRD.md`
 - `PROGRESS.md`
 - `GOAL_RESULT.md`
@@ -14,35 +30,42 @@ Refreshed the GitHub profile README to present Wesley Simplicio as an AI systems
 ## Validation Commands Executed
 
 ```bash
-python kernel/yool_tuple_kernel.py
-Inline tuple-space task run with kernel.yool_tuple_kernel
-git diff --check
-Invoke-WebRequest -Method Head <embedded-image-url>
+git fetch --prune
+simplicio-mapper index . --json
+taskflow inspect .
+curl -sS 'https://api.github.com/users/wesleysimplicio/repos?per_page=100&type=owner&sort=updated'
+git diff --check -- README*.md
+curl -L -s -o /dev/null -w '%{http_code}' <embedded-image-url>
 ```
 
 ## Results
 
-- `python kernel/yool_tuple_kernel.py`: passed. Snapshot included `virtual_agents=1048576` and `total_agents=1048578`.
-- Inline tuple-space task run: passed. Exercised `batch_spawn`, `route_packet`, `rd_tuple`, `in_tuple`, `scan_index`, `hookwall`, `compress_token`, `prune_idle`, and `LaneWorkerPool`; final snapshot included `active_agents=1` and `total_agents=1048578`.
-- `git diff --check`: passed. Only the expected Windows LF/CRLF warning was reported.
-- Embedded README images: passed. All 9 raw image URLs returned HTTP 200.
+- `simplicio-mapper index . --json`: passed and regenerated local `.simplicio` mapping artifacts.
+- `taskflow inspect .`: passed; stack detected as generic with manual validation required.
+- GitHub public repository API: passed; ranking updated for `simplicio-mapper` and `simplicio-sprint` current star counts/order.
+- `git diff --check -- README*.md`: passed.
+- Embedded image and analytics URLs: passed with HTTP 200 after removing the GitHub trophy image block, which returned HTTP 402.
+- `simplicio-dev-cli`: unavailable in PATH, so direct generation/editing was used as fallback.
+- `taskflow run .`: passed; human review checklist generated at `/Users/wesleysimplicio/.config/taskflow/reports/wesleysimplicio-48e03aef/human-review.md`.
 
 ## Remaining Risks
 
-- The profile README has not been pushed because repo instructions say not to push without explicit instruction.
-- External README image links can change if a source repository renames or moves assets.
+- Translations are static Markdown files; future README content changes need to be propagated to every locale.
+- External analytics/image providers can change availability over time.
+- No push was performed yet because the repository PRD says not to push without explicit instruction.
 
-## Suggested PR Title
+## Suggested Commit Title
 
-Refresh GitHub profile README with AI project highlights
+Add multilingual profile READMEs
 
 ## Suggested PR Body
 
-Updates the profile README to highlight core AI and runtime projects, embed public README images from the featured repositories, add direct repository links, and clarify the mission around practical AI work for human progress and recognition through impact.
+Adds localized README variants for English, Portuguese, Spanish, Japanese, Korean, Simplified Chinese, Italian, French, Russian, Polish, Hindi, Arabic, Hebrew, Malay, and Indonesian. Each file includes a language selector, localized profile copy, synchronized project cards, recent repositories, refreshed public star ranking, and the shared Star History block.
 
 Validation:
 
-- `python kernel/yool_tuple_kernel.py`
-- Inline tuple-space task run with `kernel.yool_tuple_kernel`
-- `git diff --check`
-- HEAD checks for all embedded raw README image URLs
+- `simplicio-mapper index . --json`
+- `taskflow inspect .`
+- `git diff --check -- README*.md`
+- HTTP checks for embedded README image and analytics URLs
+- `taskflow run .`

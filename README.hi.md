@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-AI systems builder | agent orchestration | local-first runtimes | practical automation
+AI सिस्टम बिल्डर | एजेंट ऑर्केस्ट्रेशन | लोकल-फर्स्ट रनटाइम | व्यावहारिक ऑटोमेशन
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -11,21 +11,21 @@ AI systems builder | agent orchestration | local-first runtimes | practical auto
 [![Main Stack](https://img.shields.io/badge/stack-python%20%7C%20typescript%20%7C%20c%2B%2B-0f172a?style=for-the-badge)](https://github.com/wesleysimplicio?tab=repositories)
 [![Focus](https://img.shields.io/badge/focus-AI%20for%20execution-0f172a?style=for-the-badge)](https://github.com/wesleysimplicio?tab=repositories)
 
-**English** · [Português](README.pt-BR.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Polski](README.pl.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [Bahasa Melayu](README.ms.md) · [Bahasa Indonesia](README.id.md)
+[English](README.md) · [Português](README.pt-BR.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Polski](README.pl.md) · **हिन्दी** · [العربية](README.ar.md) · [עברית](README.he.md) · [Bahasa Melayu](README.ms.md) · [Bahasa Indonesia](README.id.md)
 
 </div>
 
 ---
 
-## `mission`
+## `मिशन`
 
-I build AI systems, agent tooling, local runtimes, and automation layers that turn ideas into execution.
+मैं AI सिस्टम, एजेंट टूलिंग, लोकल रनटाइम और ऑटोमेशन लेयर बनाता हूँ जो विचारों को निष्पादन में बदलते हैं।
 
-My goal is to contribute to humanity through practical AI work: tools that help people think better, build faster, automate responsibly, and run complex work with more clarity. I want this body of work to be recognized for its impact, including by a great company that values ambitious engineering applied to real human progress.
+मेरा लक्ष्य व्यावहारिक AI कार्य से मानवता में योगदान देना है: ऐसे टूल जो लोगों को बेहतर सोचने, तेज़ बनाने, जिम्मेदारी से ऑटोमेट करने और जटिल काम को अधिक स्पष्टता से चलाने में मदद करें। मैं चाहता हूँ कि इस काम को उसके प्रभाव के लिए पहचाना जाए, खासकर उन कंपनियों द्वारा जो वास्तविक मानव प्रगति के लिए महत्वाकांक्षी इंजीनियरिंग को महत्व देती हैं।
 
 ---
 
-## `main_work`
+## `मुख्य_कार्य`
 
 <table>
   <tr>
@@ -34,14 +34,14 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 <img src="https://raw.githubusercontent.com/wesleysimplicio/ds4-simplicio-apple-v6/main/assets/us4-v6-apple-edition-promo.png" alt="DS4 Simplicio Apple V6 promotional banner" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/ds4-simplicio-apple-v6">ds4-simplicio-apple-v6</a></h3>
-  <p>On-device Universal State Runtime for LLMs on Apple Silicon using MLX, Metal, ANE-oriented architecture, C++17/20, and local-first inference paths.</p>
+  <p>Apple Silicon पर LLMs के लिए on-device Universal State Runtime, MLX, Metal, ANE-oriented architecture, C++17/20 और local-first inference paths के साथ।</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-dev-cli">
 <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-dev-cli/master/output/imagegen/simplicio-cli-readme-hero-web.png" alt="simplicio-dev-cli verified execution pipeline hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-dev-cli">simplicio-dev-cli</a></h3>
-  <p>Execution CLI for turning one-line software tasks into mapped changes, diffs, tests, validation evidence, and reviewable implementation loops.</p>
+  <p>Execution CLI जो one-line software tasks को mapped changes, diffs, tests, validation evidence और reviewable implementation loops में बदलती है।</p>
 </td>
   </tr>
   <tr>
@@ -50,14 +50,14 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-mapper/main/assets/llm-project-mapper-hero.png" alt="simplicio-mapper hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-mapper">simplicio-mapper</a></h3>
-  <p>Stack-neutral project mapper for agentic development: shared `.simplicio` artifacts, project context, starter structure, and repeatable AI coding workflows.</p>
+  <p>Agentic development के लिए stack-neutral project mapper: `.simplicio` artifacts, project context, starter structure और repeatable AI coding workflows।</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-prompt">
 <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-prompt/main/docs/assets/yool-v2-safe-speed-infographic-pt.png" alt="simplicio-prompt yool tuple HAMT infographic" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-prompt">simplicio-prompt</a></h3>
-  <p>Capability-addressing pattern for agent systems: yool, tuple-space, HAMT catalogs, guardrails, receipts, and reference kernels for large-scale orchestration.</p>
+  <p>Agent systems के लिए capability-addressing pattern: yool, tuple-space, HAMT catalogs, guardrails, receipts और reference kernels।</p>
 </td>
   </tr>
   <tr>
@@ -66,21 +66,21 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 <img src="https://raw.githubusercontent.com/wesleysimplicio/hermes-turbo-agent/codex/hermes-agent-100x-fast/docs/assets/hermes-turbo-brand/hermes-turbo-agent-vs-openclaw-banner.png" alt="Hermes turbo agent benchmark banner" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/hermes-turbo-agent">hermes-turbo-agent</a></h3>
-  <p>Hermes Agent performance branch with runtime benchmarks, visual comparisons, low-latency paths, and safe hot-path optimization research.</p>
+  <p>Hermes Agent performance branch जिसमें runtime benchmarks, visual comparisons, low-latency paths और safe hot-path optimization research है।</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-sprint">
 <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-sprint/main/docs/assets/sendsprint-hero.png" alt="simplicio-sprint hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-sprint">simplicio-sprint</a></h3>
-  <p>Multi-agent sprint delivery workflow for reading sprint systems, mapping repo architecture, dispatching implementation work, and verifying delivery context.</p>
+  <p>Multi-agent sprint delivery workflow जो sprint systems पढ़ता है, repo architecture map करता है, implementation dispatch करता है और delivery context verify करता है।</p>
 </td>
   </tr>
 </table>
 
 ---
 
-## `ai_tools_and_skills`
+## `ai_टूल्स_और_स्किल्स`
 
 <table>
   <tr>
@@ -89,14 +89,14 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 <img src="https://raw.githubusercontent.com/wesleysimplicio/PiAPI-Skills/main/presentation/remotion-tutorial/media/en/preview.gif" alt="PiAPI Skills tutorial preview" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/PiAPI-Skills">PiAPI-Skills</a></h3>
-  <p>Skill bundle for Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf, and generic agents covering media generation and LLM workflows.</p>
+  <p>Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf और generic agents के लिए media generation और LLM workflows का skill bundle।</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
 <img src="https://raw.githubusercontent.com/wesleysimplicio/WaveSpeedAI-Skills/main/docs/media/tutorial-poster-en.png" alt="WaveSpeedAI Skills tutorial poster" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">WaveSpeedAI-Skills</a></h3>
-  <p>One installer and CLI for WaveSpeedAI models across agentskills.io-compatible hosts and multi-agent environments.</p>
+  <p>agentskills.io-compatible hosts और multi-agent environments के लिए WaveSpeedAI models का एक installer और CLI।</p>
 </td>
   </tr>
   <tr>
@@ -105,21 +105,21 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-marketing-engine/main/assets/readme/marketing-engine-hero.svg" alt="simplicio-marketing-engine hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-marketing-engine">simplicio-marketing-engine</a></h3>
-  <p>Provider-agnostic AI marketing CLI: brief, script, creative, caption, compliance, publish, metrics, ads, and environment-driven model routing.</p>
+  <p>Provider-agnostic AI marketing CLI: brief, script, creative, caption, compliance, publish, metrics, ads और environment-driven model routing।</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/x-virality-skills">
 <img src="https://raw.githubusercontent.com/wesleysimplicio/x-virality-skills/main/skills/x-virality/assets/x-virality-hero.png" alt="x-virality-skills hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/x-virality-skills">x-virality-skills</a></h3>
-  <p>Standalone skill repo for optimizing X posts with source-grounded For You algorithm references, tools, and tests.</p>
+  <p>X posts optimize करने के लिए standalone skill repo, source-grounded For You algorithm references, tools और tests के साथ।</p>
 </td>
   </tr>
 </table>
 
 ---
 
-## `open_source_and_runtime_research`
+## `open_source_और_runtime_अनुसंधान`
 
 <table>
   <tr>
@@ -128,41 +128,41 @@ My goal is to contribute to humanity through practical AI work: tools that help 
     <img src="https://raw.githubusercontent.com/wesleysimplicio/ds4-simplicio-windows-v6/main/assets/readme/us4-windows-hero-gpt-image-2.png" alt="DS4 Simplicio Windows V6 hero" width="100%" />
   </a>
   <h3><a href="https://github.com/wesleysimplicio/ds4-simplicio-windows-v6">ds4-simplicio-windows-v6</a></h3>
-  <p>Windows edition of the local inference runtime across NVIDIA, AMD, Intel, NPU, CUDA, DirectML, Vulkan, AVX, and Windows ML targets.</p>
+  <p>NVIDIA, AMD, Intel, NPU, CUDA, DirectML, Vulkan, AVX और Windows ML targets के लिए local inference runtime का Windows edition।</p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/wesleysimplicio/x-bookmarks-panel">x-bookmarks-panel</a></h3>
-  <p>Local-first Flask panel that turns x.com bookmarks into an actionable queue for AI-assisted triage and execution.</p>
+  <p>Local-first Flask panel जो x.com bookmarks को AI-assisted triage और execution के लिए actionable queue में बदलता है।</p>
   <h3><a href="https://github.com/wesleysimplicio/sistema-sindico">sistema-sindico</a></h3>
-  <p>PHP/MySQL condominium management system with API foundations for mobile app workflows.</p>
+  <p>PHP/MySQL condominium management system जिसमें mobile app workflows के लिए API foundations हैं।</p>
   <h3><a href="https://github.com/wesleysimplicio/brazil-bank-open-finance-br-cli">brazil-bank CLI suite</a></h3>
-  <p>Open Finance and Brazilian banking CLI experiments across BB, BTG, Inter, Matera, PagBank, PicPay, and Open Finance BR.</p>
-  <h3><a href="https://github.com/wesleysimplicio?tab=repositories">more repositories</a></h3>
-  <p>Additional work across C#, PHP, TypeScript, Rust, Python, C++, local tools, SaaS prototypes, and AI infrastructure experiments.</p>
+  <p>BB, BTG, Inter, Matera, PagBank, PicPay और Open Finance BR के लिए Open Finance और Brazilian banking CLI experiments।</p>
+  <h3><a href="https://github.com/wesleysimplicio?tab=repositories">और repositories</a></h3>
+  <p>C#, PHP, TypeScript, Rust, Python, C++, local tools, SaaS prototypes और AI infrastructure experiments में अतिरिक्त कार्य।</p>
 </td>
   </tr>
 </table>
 
 ---
 
-## `recent_public_repos`
+## `हालिया_सार्वजनिक_repos`
 
-| Project | Stack | Focus |
+| प्रोजेक्ट | स्टैक | फोकस |
 |---|---|---|
-| [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | Python | Verified implementation loop for agentic software tasks |
-| [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | Python | Multi-agent sprint delivery and repo-context verification |
+| [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | Python | Agentic software tasks के लिए verified implementation loop |
+| [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | Python | Multi-agent sprint delivery और repo-context verification |
 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | C++ | Apple Silicon local LLM runtime |
 | [ds4-simplicio-windows-v6](https://github.com/wesleysimplicio/ds4-simplicio-windows-v6) | C++ | Windows local LLM runtime |
 | [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | TypeScript | Provider-agnostic AI marketing automation |
-| [sistema-sindico](https://github.com/wesleysimplicio/sistema-sindico) | PHP | Condominium management system and API foundation |
+| [sistema-sindico](https://github.com/wesleysimplicio/sistema-sindico) | PHP | Condominium management system और API foundation |
 | [brazil-bank-open-finance-br-cli](https://github.com/wesleysimplicio/brazil-bank-open-finance-br-cli) | Python | Open Finance BR CLI research |
 | [brazil-bank-bb-cli](https://github.com/wesleysimplicio/brazil-bank-bb-cli), [btg](https://github.com/wesleysimplicio/brazil-bank-btg-cli), [inter](https://github.com/wesleysimplicio/brazil-bank-inter-cli), [matera](https://github.com/wesleysimplicio/brazil-bank-matera-cli), [pagbank](https://github.com/wesleysimplicio/brazil-bank-pagbank-cli), [picpay](https://github.com/wesleysimplicio/brazil-bank-picpay-cli) | JavaScript | Brazilian banking CLI experiments |
-| [phoenix-x-algorithm](https://github.com/wesleysimplicio/phoenix-x-algorithm) | Python | X algorithm research and local experimentation |
-| [bookmarks-oss](https://github.com/wesleysimplicio/bookmarks-oss) | OSS workflow | Bookmark-driven knowledge and triage experiments |
+| [phoenix-x-algorithm](https://github.com/wesleysimplicio/phoenix-x-algorithm) | Python | X algorithm research और local experimentation |
+| [bookmarks-oss](https://github.com/wesleysimplicio/bookmarks-oss) | OSS workflow | Bookmark-driven knowledge और triage experiments |
 
 ---
 
-## `toolchain`
+## `टूलचेन`
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
@@ -176,7 +176,7 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 ---
 
-## `stats`
+## `आंकड़े`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -185,18 +185,18 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 ---
 
-## `signal`
+## `संकेत`
 
-- I care about AI that works in real operating environments, not only demos.
-- I build systems that preserve context, map repositories, coordinate agents, and automate delivery.
-- I am looking for recognition through impact: open work, serious engineering, and opportunities with companies capable of scaling that work.
-- The direction is simple: use AI to create more leverage for people, teams, and the future of software.
+- मैं ऐसी AI की परवाह करता हूँ जो वास्तविक operating environments में काम करती है, सिर्फ demos में नहीं।
+- मैं ऐसे systems बनाता हूँ जो context preserve करते हैं, repositories map करते हैं, agents coordinate करते हैं और delivery automate करते हैं।
+- मैं impact के माध्यम से recognition चाहता हूँ: open work, serious engineering और ऐसी companies के साथ opportunities जो इस काम को scale कर सकें।
+- दिशा सरल है: AI का उपयोग करके लोगों, teams और software के भविष्य के लिए अधिक leverage बनाना।
 
 ---
 
-## `mentor_acknowledgement`
+## `मेंटor_आभार`
 
-Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980), a California, USA native and author of 100+ scientific articles. His humanitarian and educational perspective on programming, AI, and scientific work has helped reinforce my own mission: build practical AI systems that advance human capability.
+मेरे mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980) को विशेष धन्यवाद, जो California, USA से हैं और 100+ scientific articles के लेखक हैं। Programming, AI और scientific work पर उनका humanitarian और educational दृष्टिकोण मेरी mission को मजबूत करता है: human capability को आगे बढ़ाने वाले practical AI systems बनाना।
 
 ---
 
@@ -208,12 +208,12 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 </div>
 
-| Rank | Project | Stars | Forks | Focus |
+| रैंक | प्रोजेक्ट | Stars | Forks | फोकस |
 |---:|---|---:|---:|---|
 | 1 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
 | 2 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
 | 3 | [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=forks&logo=github&color=38bdf8) | Agentic task execution CLI |
-| 4 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Project mapping for LLMs |
+| 4 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | LLMs के लिए project mapping |
 | 5 | [simplicio-prompt](https://github.com/wesleysimplicio/simplicio-prompt) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-prompt?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-prompt?style=flat-square&label=forks&logo=github&color=38bdf8) | Agent capability-addressing pattern |
 | 6 | [PiAPI-Skills](https://github.com/wesleysimplicio/PiAPI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/PiAPI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/PiAPI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | AI media generation skills |
 | 7 | [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=forks&logo=github&color=38bdf8) | AI marketing automation CLI |
@@ -230,7 +230,7 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="GitHub public stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top public languages" />
 
-### stars history across top projects
+### top projects का stars history
 
 <a href="https://star-history.com/#wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/simplicio-sprint&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/WaveSpeedAI-Skills&Date">
   <img src="https://api.star-history.com/svg?repos=wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/simplicio-sprint,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/WaveSpeedAI-Skills&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
@@ -240,13 +240,13 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity%20(commits%20%2F%20PRs%20%2F%20issues)" alt="Contribution activity graph" width="90%" />
 
-### streak and productive time
+### streak और productive time
 
 <img src="https://streak-stats.demolab.com?user=wesleysimplicio&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub weekly streak" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleysimplicio&theme=tokyonight&utcOffset=-3" alt="Productive time of day" height="180" />
 
 
-### language and repository summary
+### language और repository summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleysimplicio&theme=tokyonight" alt="Repos per language" width="44%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleysimplicio&theme=tokyonight" alt="Most commits by language" width="44%" />
@@ -254,13 +254,13 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 </div>
 
-> Ranking updated from the public GitHub API on 2026-06-01, excluding forks and the profile repository. Star and fork badges update automatically from GitHub.
-> WakaTime remains removed because it depends on external account/data visibility and may render empty or broken in a public GitHub profile.
-> Clone counts and release download counts require GitHub Traffic API authentication and cannot be embedded directly in a public README.
+> Ranking 2026-06-01 को public GitHub API से update किया गया, forks और profile repository को छोड़कर। Star और fork badges GitHub से automatically update होते हैं।
+> WakaTime हटाया हुआ है क्योंकि यह external account/data visibility पर निर्भर करता है और public GitHub profile में empty या broken render हो सकता है।
+> Clone counts और release download counts के लिए GitHub Traffic API authentication चाहिए और इन्हें public README में सीधे embed नहीं किया जा सकता।
 
 ---
 
-## `connect`
+## `संपर्क`
 
 - GitHub: [@wesleysimplicio](https://github.com/wesleysimplicio)
 - Repositories: [github.com/wesleysimplicio?tab=repositories](https://github.com/wesleysimplicio?tab=repositories)
@@ -271,6 +271,6 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 <div align="center">
 
-### `turning AI ideas into systems that execute`
+### `AI विचारों को निष्पादित सिस्टम में बदलना`
 
 </div>

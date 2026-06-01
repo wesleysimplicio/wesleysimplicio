@@ -66,3 +66,56 @@ None.
 | Inline tuple-space task run | Passed | Exercised `batch_spawn`, `route_packet`, `scan_index`, `hookwall`, `compress_token`, `prune_idle`, and `LaneWorkerPool`. |
 | `git diff --check` | Passed | Only Windows LF/CRLF warning. |
 | `Invoke-WebRequest -Method Head` for 9 embedded raw images | Passed | Every image URL returned HTTP 200. |
+
+---
+
+## 2026-06-01 Multilingual README Expansion
+
+### Checkpoint 5
+
+Status: complete
+
+Task: Add README variants for English, Portuguese, Spanish, Japanese, Korean, Simplified Chinese, Italian, French, Russian, Polish, Hindi, Arabic, Hebrew, Malay, and Indonesian.
+
+Result: Created localized README files with a shared language selector, preserved repository cards and analytics, refreshed the top 10 public star ranking from the GitHub public API, and removed the GitHub trophy image block because the service returned HTTP 402 during validation.
+
+Files changed:
+
+- `README.md`
+- `README.pt-BR.md`
+- `README.es.md`
+- `README.ja.md`
+- `README.ko.md`
+- `README.zh-CN.md`
+- `README.it.md`
+- `README.fr.md`
+- `README.ru.md`
+- `README.pl.md`
+- `README.hi.md`
+- `README.ar.md`
+- `README.he.md`
+- `README.ms.md`
+- `README.id.md`
+- `PRD.md`
+- `PROGRESS.md`
+- `GOAL_RESULT.md`
+
+Validation:
+
+- `simplicio-mapper index . --json`: passed.
+- `taskflow inspect .`: passed; generic repo, manual validation required.
+- `git diff --check -- README*.md`: passed.
+- Embedded image and analytics URLs in README files: passed after removing the trophy service that returned HTTP 402.
+- `simplicio-dev-cli`: not available in PATH, so the fallback was direct file generation/editing.
+
+Next: Run `taskflow run .`, stage the README language files and process docs, and commit locally. Push requires explicit permission according to the repository PRD.
+
+### Checkpoint 6
+
+Status: complete
+
+Task: Run final taskflow checklist for the multilingual README work.
+
+Result: `taskflow run .` passed and generated the human review checklist at `/Users/wesleysimplicio/.config/taskflow/reports/wesleysimplicio-48e03aef/human-review.md`.
+
+Next: Stage and commit locally. Push still requires explicit permission according to the repository PRD.

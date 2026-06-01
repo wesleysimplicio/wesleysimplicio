@@ -51,3 +51,46 @@ Invoke-WebRequest -Method Head for every embedded raw README image
 - [x] Local diff validation passes
 - [x] Tuple-space task routing flow completes
 - [x] GOAL_RESULT.md is written
+
+---
+
+# PRD Addendum - Multilingual README Expansion
+
+## Objective
+
+Provide the GitHub profile README in the requested languages while keeping the canonical project links, public images, star ranking, and Star History consistent across every language file.
+
+## Required Languages
+
+- [x] English (`README.md`)
+- [x] Portuguese (`README.pt-BR.md`)
+- [x] Spanish (`README.es.md`)
+- [x] Japanese (`README.ja.md`)
+- [x] Korean (`README.ko.md`)
+- [x] Simplified Chinese (`README.zh-CN.md`)
+- [x] Italian (`README.it.md`)
+- [x] French (`README.fr.md`)
+- [x] Russian (`README.ru.md`)
+- [x] Polish (`README.pl.md`)
+- [x] Hindi (`README.hi.md`)
+- [x] Arabic (`README.ar.md`)
+- [x] Hebrew (`README.he.md`)
+- [x] Malay (`README.ms.md`)
+- [x] Indonesian (`README.id.md`)
+
+## Requirements
+
+- [x] Add a language selector to every README file.
+- [x] Preserve the same repository cards, public images, analytics blocks, and Star History repositories across languages.
+- [x] Update the public star ranking from the current GitHub public API snapshot.
+- [x] Avoid embedding broken public image services.
+
+## Validation Commands
+
+```bash
+simplicio-mapper index . --json
+taskflow inspect .
+git diff --check -- README*.md
+curl -L -s -o /dev/null -w '%{http_code}' <embedded-image-url>
+taskflow run .
+```
