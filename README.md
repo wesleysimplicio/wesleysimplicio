@@ -69,11 +69,11 @@ My goal is to contribute to humanity through practical AI work: tools that help 
   <p>Hermes Agent performance branch with runtime benchmarks, visual comparisons, low-latency paths, and safe hot-path optimization research.</p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-sprint">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-sprint/main/docs/assets/sendsprint-hero.png" alt="simplicio-sprint hero" width="100%" />
+  <a href="https://github.com/wesleysimplicio/simplicio">
+<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio/master/assets/simplicio-hero-v3.png" alt="Simplicio runtime hero" width="100%" />
   </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-sprint">simplicio-sprint</a></h3>
-  <p>Multi-agent sprint delivery workflow for reading sprint systems, mapping repo architecture, dispatching implementation work, and verifying delivery context.</p>
+  <h3><a href="https://github.com/wesleysimplicio/simplicio">simplicio</a></h3>
+  <p>AI coding agent runtime — single Rust binary, local-first, multi-agent. Save up to 96% tokens via chat, map, edit, and agent orchestration.</p>
 </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 | Project | Stack | Focus |
 |---|---|---|
-| [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | Python | Verified implementation loop for agentic software tasks |
+| [simplicio](https://github.com/wesleysimplicio/simplicio) | Rust | AI coding agent runtime — local-first, multi-agent, single binary with token savings |
 | [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | Python | Multi-agent sprint delivery and repo-context verification |
 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | C++ | Apple Silicon local LLM runtime |
 | [ds4-simplicio-windows-v6](https://github.com/wesleysimplicio/ds4-simplicio-windows-v6) | C++ | Windows local LLM runtime |
@@ -210,16 +210,16 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 | Rank | Project | Stars | Forks | Focus |
 |---:|---|---:|---:|---|
-| 1 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
-| 2 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
-| 3 | [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=forks&logo=github&color=38bdf8) | Agentic task execution CLI |
-| 4 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Project mapping for LLMs |
-| 5 | [simplicio-prompt](https://github.com/wesleysimplicio/simplicio-prompt) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-prompt?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-prompt?style=flat-square&label=forks&logo=github&color=38bdf8) | Agent capability-addressing pattern |
+| 1 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
+| 2 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
+| 3 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Project mapping for LLMs |
+| 4 | [simplicio-prompt](https://github.com/wesleysimplicio/simplicio-prompt) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-prompt?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-prompt?style=flat-square&label=forks&logo=github&color=38bdf8) | Agent capability-addressing pattern |
+| 5 | [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=forks&logo=github&color=38bdf8) | AI marketing automation CLI |
 | 6 | [PiAPI-Skills](https://github.com/wesleysimplicio/PiAPI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/PiAPI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/PiAPI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | AI media generation skills |
-| 7 | [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=forks&logo=github&color=38bdf8) | AI marketing automation CLI |
-| 8 | [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-sprint?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-sprint?style=flat-square&label=forks&logo=github&color=38bdf8) | Multi-agent sprint delivery |
+| 7 | [simplicio](https://github.com/wesleysimplicio/simplicio) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio?style=flat-square&label=forks&logo=github&color=38bdf8) | AI coding agent runtime — single Rust binary |
+| 8 | [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=forks&logo=github&color=38bdf8) | Agentic task execution CLI |
 | 9 | [x-bookmarks-panel](https://github.com/wesleysimplicio/x-bookmarks-panel) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=forks&logo=github&color=38bdf8) | Local-first X bookmarks workflow |
-| 10 | [WaveSpeedAI-Skills](https://github.com/wesleysimplicio/WaveSpeedAI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | WaveSpeedAI model skills |
+| 10 | [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-sprint?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-sprint?style=flat-square&label=forks&logo=github&color=38bdf8) | Multi-agent sprint delivery |
 
 <div align="center">
 
@@ -232,8 +232,8 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 ### stars history across top projects
 
-<a href="https://star-history.com/#wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/simplicio-sprint&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/WaveSpeedAI-Skills&Date">
-  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/simplicio-sprint,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/WaveSpeedAI-Skills&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
+<a href="https://star-history.com/#wesleysimplicio/hermes-turbo-agent&wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/simplicio-sprint&Date">
+  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/hermes-turbo-agent,wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/simplicio-sprint&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
 </a>
 
 ### contribution activity graph
@@ -254,7 +254,7 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 </div>
 
-> Ranking updated from the public GitHub API on 2026-06-01, excluding forks and the profile repository. Star and fork badges update automatically from GitHub.
+> Ranking updated from the public GitHub API on 2026-06-16, excluding forks and the profile repository. Star and fork badges update automatically from GitHub.
 > WakaTime remains removed because it depends on external account/data visibility and may render empty or broken in a public GitHub profile.
 > Clone counts and release download counts require GitHub Traffic API authentication and cannot be embedded directly in a public README.
 
