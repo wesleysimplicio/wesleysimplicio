@@ -210,6 +210,7 @@ AI सिस्टम बिल्डर | एजेंट ऑर्केस्
 
 | रैंक | प्रोजेक्ट | Stars | Forks | फोकस |
 |---:|---|---:|---:|---|
+| 🚀 | [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=flat-square&label=stars&logo=github&color=7C3AED) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-loop?style=flat-square&label=forks&logo=github&color=38bdf8) | Flagship — Universal Looping AI Orchestrator (v1.0.1) |
 | 1 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
 | 2 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
 | 3 | [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=forks&logo=github&color=38bdf8) | Agentic task execution CLI |
@@ -232,8 +233,8 @@ AI सिस्टम बिल्डर | एजेंट ऑर्केस्
 
 ### top projects का stars history
 
-<a href="https://star-history.com/#wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/simplicio-sprint&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/WaveSpeedAI-Skills&Date">
-  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/simplicio-sprint,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/WaveSpeedAI-Skills&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
+<a href="https://star-history.com/#wesleysimplicio/simplicio-loop&wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/simplicio-sprint&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/WaveSpeedAI-Skills&Date">
+  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/simplicio-loop,wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/simplicio-sprint,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/WaveSpeedAI-Skills&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
 </a>
 
 ### contribution activity graph

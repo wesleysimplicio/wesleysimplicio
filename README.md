@@ -25,6 +25,33 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 ---
 
+## `flagship` · [simplicio-loop](https://github.com/wesleysimplicio/simplicio-loop)
+
+<div align="center">
+
+  <a href="https://github.com/wesleysimplicio/simplicio-loop">
+    <img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-loop/main/assets/simplicio-loop-hero.jpg" alt="simplicio-loop — The Universal Looping AI Orchestrator" width="92%" />
+  </a>
+
+  [![Release](https://img.shields.io/github/v/release/wesleysimplicio/simplicio-loop?style=for-the-badge&color=7C3AED&label=release)](https://github.com/wesleysimplicio/simplicio-loop/releases)
+  [![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=for-the-badge&color=facc15&logo=github)](https://github.com/wesleysimplicio/simplicio-loop/stargazers)
+  [![Skills](https://img.shields.io/badge/skills-6-7C3AED?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop#-the-6-skills-super-plugin)
+  [![Runtimes](https://img.shields.io/badge/runtimes-11-2563EB?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop#-11-runtimes-one-protocol)
+  [![Tokens](https://img.shields.io/badge/tokens-up%20to%2096%25%20fewer-00E08A?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop#-token-economy)
+  [![License](https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop/blob/main/LICENSE)
+
+  <p><strong>The Universal Looping AI Orchestrator.</strong> A runtime-agnostic super-plugin — 6 skills — that drains any queue of work end-to-end on <strong>any LLM / runtime</strong>: <code>discover → implement → verify → merge → close → watch 24/7</code>, behind safety gates and a hard cost kill-switch, at up to <strong>96% fewer tokens</strong>. Not a chatbot. A worker.</p>
+
+</div>
+
+```bash
+/plugin marketplace add wesleysimplicio/simplicio-loop
+/plugin install simplicio-loop@simplicio
+/simplicio-tasks finish all the open issues
+```
+
+---
+
 ## `main_work`
 
 <table>
@@ -149,6 +176,7 @@ My goal is to contribute to humanity through practical AI work: tools that help 
 
 | Project | Stack | Focus |
 |---|---|---|
+| [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) | Python · super-plugin | **Flagship** — Universal Looping AI Orchestrator: discover→implement→verify→merge→watch 24/7 on any LLM, up to 96% fewer tokens |
 | [simplicio](https://github.com/wesleysimplicio/simplicio) | Rust | AI coding agent runtime — local-first, multi-agent, single binary with token savings |
 | [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | Python | Multi-agent sprint delivery and repo-context verification |
 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | C++ | Apple Silicon local LLM runtime |
@@ -210,6 +238,7 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 | Rank | Project | Stars | Forks | Focus |
 |---:|---|---:|---:|---|
+| 🚀 | [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=flat-square&label=stars&logo=github&color=7C3AED) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-loop?style=flat-square&label=forks&logo=github&color=38bdf8) | **Flagship** — Universal Looping AI Orchestrator (v1.0.1) |
 | 1 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Hermes Agent performance research |
 | 2 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Apple Silicon local LLM runtime |
 | 3 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Project mapping for LLMs |
@@ -232,8 +261,8 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 ### stars history across top projects
 
-<a href="https://star-history.com/#wesleysimplicio/hermes-turbo-agent&wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/simplicio-sprint&Date">
-  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/hermes-turbo-agent,wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/simplicio-sprint&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
+<a href="https://star-history.com/#wesleysimplicio/simplicio-loop&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/simplicio-sprint&Date">
+  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/simplicio-loop,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/simplicio-sprint&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
 </a>
 
 ### contribution activity graph
@@ -254,7 +283,7 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 </div>
 
-> Ranking updated from the public GitHub API on 2026-06-16, excluding forks and the profile repository. Star and fork badges update automatically from GitHub.
+> Ranking updated from the public GitHub API on 2026-06-23, excluding forks and the profile repository. simplicio-loop is highlighted as the current flagship. Star and fork badges update automatically from GitHub.
 > WakaTime remains removed because it depends on external account/data visibility and may render empty or broken in a public GitHub profile.
 > Clone counts and release download counts require GitHub Traffic API authentication and cannot be embedded directly in a public README.
 
