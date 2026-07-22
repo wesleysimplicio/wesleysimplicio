@@ -272,6 +272,17 @@ Top public repositories by stars, excluding forks and the profile repository. Sn
   <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Hermes Agent original banner" width="100%" />
 </a>
 
+### Upstream contribution impact
+
+[![38 upstream commits](https://img.shields.io/badge/38-upstream%20commit%20contributions-FFD21E?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/NousResearch/hermes-agent/commits/main/?author=wesleysimplicio)
+
+**38 commit contributions to the original Hermes Agent in 2026, through July 22.** Those changes improved the project across four practical fronts:
+
+- **Agent and dashboard UX** — kept selected-provider models visible during search, enabled mobile dashboard scrolling, and made terminal selection/copy behavior more predictable.
+- **Runtime and container resilience** — strengthened Docker gateway detection, terminal and audio environment propagation, missing-adapter degradation, orphan-process cleanup, and transient-error recovery.
+- **Model and integration compatibility** — improved fallback API-key resolution, DeepSeek V4 thinking extraction, provider/profile normalization, browser auto-detection, and IMAP compatibility.
+- **Workflow correctness** — hardened Kanban selections and migrations, dependency readiness recomputation, short-token CJK session search, checkpoints, and optional dependency packaging.
+
 - [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) — performance branch with benchmarks, visual comparisons, token reporting, and safe hot-path research.
 - [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel) — turns saved X posts into an actionable local-first AI queue.
 - [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills) — source-grounded workflows for X's For You algorithm.

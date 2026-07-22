@@ -272,6 +272,17 @@ Principais repositórios públicos por estrelas, excluindo forks e o repositóri
   <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Banner original do Hermes Agent" width="100%" />
 </a>
 
+### Impacto das contribuições upstream
+
+[![38 commits upstream](https://img.shields.io/badge/38-contribui%C3%A7%C3%B5es%20de%20commit%20upstream-FFD21E?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/NousResearch/hermes-agent/commits/main/?author=wesleysimplicio)
+
+**38 contribuições de commit para o Hermes Agent original em 2026, até 22 de julho.** Essas mudanças melhoraram o projeto em quatro frentes práticas:
+
+- **Experiência do agente e dashboard** — manteve os modelos do provider selecionado visíveis durante buscas, habilitou rolagem no dashboard mobile e tornou seleção/cópia no terminal mais previsível.
+- **Resiliência do runtime e containers** — fortaleceu detecção do gateway no Docker, propagação de ambiente para terminal e áudio, degradação sem adapters, limpeza de processos órfãos e recuperação de erros transitórios.
+- **Compatibilidade de modelos e integrações** — melhorou fallback de chaves de API, extração de thinking do DeepSeek V4, normalização de providers/perfis, autodetecção do browser e compatibilidade IMAP.
+- **Correção dos workflows** — reforçou selects e migrações do Kanban, recomputação de dependências prontas, busca de sessões com tokens CJK curtos, checkpoints e empacotamento de dependências opcionais.
+
 - [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) — branch de performance com benchmarks, comparações visuais, relatório de tokens e pesquisa segura de hot paths.
 - [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel) — transforma posts salvos no X em uma fila local de trabalho com IA.
 - [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills) — fluxos fundamentados em fontes para o algoritmo For You do X.
