@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-constructeur de systèmes IA | orchestration d’agents | runtimes local-first | automatisation pratique
+ingénieur logiciel AI-native | je développe avec des agents et je passe chaque modification en revue avant de la livrer
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -17,11 +17,19 @@ constructeur de systèmes IA | orchestration d’agents | runtimes local-first |
 
 ---
 
+## `ma_facon_de_travailler`
+
+### Comment j'utilise l'IA sur de vrais projets
+
+Je mène souvent plusieurs changements en parallèle. L'IA m'aide à écrire du code, mais je suis chaque tâche jusqu'aux tests, à la revue, à la pull request et au merge dans `main`.
+
+L'IA évolue vite, alors je continue d'adapter ma façon de travailler. Chaque jour, j'essaie quelque chose de nouveau sur du code réel et je ne garde que ce qui rend la modification suivante plus claire, plus sûre ou plus rapide.
+
+---
+
 ## `mission`
 
-Je construis des systèmes d’IA, des outils pour agents, des runtimes locaux et des couches d’automatisation qui transforment les idées en exécution.
-
-Mon objectif est de contribuer à l’humanité par une IA pratique : des outils qui aident à mieux penser, construire plus vite, automatiser de manière responsable et exécuter un travail complexe avec plus de clarté. Je veux que ce travail soit reconnu pour son impact, y compris par une grande entreprise qui valorise l’ingénierie ambitieuse appliquée au progrès humain réel.
+Je construis des outils d'IA que j'utilise sur de vrais projets. Ce qui compte pour moi, c'est qu'ils aident à comprendre un dépôt, faire une modification, la tester, la relire et la mettre en production.
 
 ---
 

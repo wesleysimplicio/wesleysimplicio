@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-AI-native software engineer | I use agents to ship more work and keep every change accountable
+AI-native software engineer | I build with agents and review every change before it ships
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -21,11 +21,11 @@ AI-native software engineer | I use agents to ship more work and keep every chan
 
 <div align="center">
 
-### I use AI to ship more code without lowering the bar
+### How I use AI on real projects
 
-My aim is blunt: become the best AI-native developer in the world. I do not expect anyone to believe that because I put it in a README. The commits, tests, reviews, and merged PRs have to make the case.
+I usually have several changes moving at once. AI helps me write code, but I still follow each task through tests, review, a pull request, and the merge into `main`.
 
-Generating code is the easy part. The useful part is moving several pieces of work through tests, review, and into `main` without losing track of what changed.
+AI changes fast, so I keep adjusting how I work. Every day I try something new on real code and keep it only when it makes the next change clearer, safer, or faster.
 
 `task intake → scoped execution → commit → test matrix → adversarial review → evidence → PR → conflict resolution → verified merge`
 
@@ -38,7 +38,7 @@ Generating code is the easy part. The useful part is moving several pieces of wo
 
 I split the queue into focused tasks and give each one its own execution slot. One agent can implement while another checks the diff, runs the relevant tests, or tries to break the result. Every change still needs a clear scope, reviewable commit, test evidence, a PR, and confirmation that the merge really reached the remote branch.
 
-That is the advantage I am building: the pace of a much larger engineering team, with the care I would expect from a strong senior developer.
+This lets me handle more work without treating review and verification as optional.
 
 ---
 

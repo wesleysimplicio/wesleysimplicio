@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-costruttore di sistemi AI | orchestrazione agenti | runtime local-first | automazione pratica
+ingegnere software AI-native | costruisco con gli agenti e rivedo ogni modifica prima di consegnarla
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -17,11 +17,19 @@ costruttore di sistemi AI | orchestrazione agenti | runtime local-first | automa
 
 ---
 
+## `come_lavoro`
+
+### Come uso l'AI nei progetti reali
+
+Di solito porto avanti più modifiche contemporaneamente. L'AI mi aiuta a scrivere codice, ma seguo ogni attività fino ai test, alla revisione, alla pull request e al merge su `main`.
+
+L'AI cambia in fretta, quindi continuo ad adattare il mio modo di lavorare. Ogni giorno provo qualcosa di nuovo su codice reale e tengo solo ciò che rende la modifica successiva più chiara, sicura o veloce.
+
+---
+
 ## `missione`
 
-Costruisco sistemi AI, strumenti per agenti, runtime locali e livelli di automazione che trasformano le idee in esecuzione.
-
-Il mio obiettivo è contribuire all’umanità tramite AI pratica: strumenti che aiutano le persone a pensare meglio, costruire più velocemente, automatizzare responsabilmente ed eseguire lavori complessi con più chiarezza. Voglio che questo lavoro sia riconosciuto per il suo impatto, anche da una grande azienda che valorizzi l’ingegneria ambiziosa applicata al progresso umano reale.
+Costruisco strumenti AI che uso in progetti reali. Mi interessa che aiutino a capire un repository, fare una modifica, testarla, rivederla e portarla in produzione.
 
 ---
 
