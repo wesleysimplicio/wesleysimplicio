@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-pembina sistem AI | orkestrasi agen | runtime local-first | automasi praktikal
+jurutera perisian AI-native | saya membangunkan perisian bersama agen dan menyemak setiap perubahan sebelum dikeluarkan
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -17,11 +17,19 @@ pembina sistem AI | orkestrasi agen | runtime local-first | automasi praktikal
 
 ---
 
+## `cara_saya_bekerja`
+
+### Cara saya menggunakan AI dalam projek sebenar
+
+Saya biasanya mengurus beberapa perubahan serentak. AI membantu saya menulis kod, tetapi saya mengikuti setiap tugasan melalui ujian, semakan, pull request dan merge ke `main`.
+
+AI berubah dengan pantas, jadi saya terus menyesuaikan cara bekerja. Setiap hari saya mencuba sesuatu yang baharu pada kod sebenar dan hanya mengekalkan apa yang menjadikan perubahan seterusnya lebih jelas, selamat atau pantas.
+
+---
+
 ## `misi`
 
-Saya membina sistem AI, alat agen, runtime tempatan dan lapisan automasi yang menukar idea kepada pelaksanaan.
-
-Matlamat saya ialah menyumbang kepada manusia melalui AI praktikal: alat yang membantu orang berfikir lebih baik, membina lebih cepat, mengautomasi dengan bertanggungjawab dan menjalankan kerja kompleks dengan lebih jelas. Saya mahu kerja ini dikenali melalui impaknya, termasuk oleh syarikat hebat yang menghargai kejuruteraan bercita-cita tinggi untuk kemajuan manusia sebenar.
+Saya membina alat AI yang saya gunakan dalam projek sebenar. Bagi saya, alat itu perlu membantu memahami repositori, membuat perubahan, menguji dan menyemaknya, kemudian membawanya ke production.
 
 ---
 
