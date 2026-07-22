@@ -2,14 +2,12 @@
 
 # Wesley Simplicio
 
-```txt
-construtor de sistemas de IA | orquestração de agentes | runtimes local-first | automação prática
-```
+### construtor de sistemas de IA · orquestração de agentes · runtimes local-first · automação prática
 
-[![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
-[![Profile views](https://komarev.com/ghpvc/?username=wesleysimplicio&style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
-[![Main Stack](https://img.shields.io/badge/stack-python%20%7C%20typescript%20%7C%20c%2B%2B-0f172a?style=for-the-badge)](https://github.com/wesleysimplicio?tab=repositories)
-[![Focus](https://img.shields.io/badge/focus-AI%20for%20execution-0f172a?style=for-the-badge)](https://github.com/wesleysimplicio?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
+[![Visualizações](https://komarev.com/ghpvc/?username=wesleysimplicio&style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
+[![Projetos públicos](https://img.shields.io/badge/23-projetos%20públicos%20sem%20fork-0f172a?style=for-the-badge&logo=github)](https://github.com/wesleysimplicio?tab=repositories)
+[![Foco](https://img.shields.io/badge/foco-IA%20que%20executa-7C3AED?style=for-the-badge)](https://github.com/wesleysimplicio?tab=repositories)
 
 [English](README.md) · **Português** · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Polski](README.pl.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [Bahasa Melayu](README.ms.md) · [Bahasa Indonesia](README.id.md)
 
@@ -17,261 +15,93 @@ construtor de sistemas de IA | orquestração de agentes | runtimes local-first 
 
 ---
 
-## `missão`
+## A missão
 
-Eu construo sistemas de IA, ferramentas para agentes, runtimes locais e camadas de automação que transformam ideias em execução.
+Eu construo sistemas de IA que transformam contexto em execução confiável: agentes que entendem um repositório, runtimes que coordenam modelos e ferramentas, e automações que deixam evidências em vez de apenas mensagens de status.
 
-Meu objetivo é contribuir com a humanidade por meio de IA prática: ferramentas que ajudam pessoas a pensar melhor, construir mais rápido, automatizar com responsabilidade e executar trabalhos complexos com mais clareza. Quero que esse trabalho seja reconhecido pelo impacto, inclusive por uma grande empresa que valorize engenharia ambiciosa aplicada ao progresso humano real.
+O objetivo é criar alavancagem prática para pessoas e equipes: menos perda de contexto, menos trabalho repetitivo, automação mais segura e software capaz de avançar da ideia ao resultado verificado.
 
----
+## O ecossistema Simplicio
 
-## `trabalho_principal`
+Os projetos abaixo são conectados. Cada um resolve um modo diferente de falha no desenvolvimento assistido por IA.
 
-<table>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/ds4-simplicio-apple-v6">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/ds4-simplicio-apple-v6/main/assets/us4-v6-apple-edition-promo.png" alt="DS4 Simplicio Apple V6 promotional banner" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/ds4-simplicio-apple-v6">ds4-simplicio-apple-v6</a></h3>
-  <p>Universal State Runtime local para LLMs em Apple Silicon, usando MLX, Metal, arquitetura orientada a ANE, C++17/20 e caminhos de inferência local-first.</p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-dev-cli">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-dev-cli/master/output/imagegen/simplicio-cli-readme-hero-web.png" alt="simplicio-dev-cli verified execution pipeline hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-dev-cli">simplicio-dev-cli</a></h3>
-  <p>CLI de execução para transformar tarefas de software em mudanças mapeadas, diffs, testes, evidência de validação e ciclos revisáveis de implementação.</p>
-</td>
-  </tr>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-mapper">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-mapper/main/assets/llm-project-mapper-hero.png" alt="simplicio-mapper hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-mapper">simplicio-mapper</a></h3>
-  <p>Mapeador de projetos stack-neutral para desenvolvimento agentic: artefatos `.simplicio`, contexto de projeto, estrutura inicial e fluxos repetíveis para agentes de código.</p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-prompt">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-prompt/main/docs/assets/yool-v2-safe-speed-infographic-pt.png" alt="simplicio-prompt yool tuple HAMT infographic" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-prompt">simplicio-prompt</a></h3>
-  <p>Padrão de endereçamento de capacidades para sistemas de agentes: yool, tuple-space, catálogos HAMT, guardrails, recibos e kernels de referência para orquestração em escala.</p>
-</td>
-  </tr>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/hermes-turbo-agent">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/hermes-turbo-agent/codex/hermes-agent-100x-fast/docs/assets/hermes-turbo-brand/hermes-turbo-agent-vs-openclaw-banner.png" alt="Hermes turbo agent benchmark banner" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/hermes-turbo-agent">hermes-turbo-agent</a></h3>
-  <p>Branch de performance do Hermes Agent com benchmarks de runtime, comparações visuais, caminhos de baixa latência e pesquisa segura de hot paths.</p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-sprint">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-sprint/main/docs/assets/sendsprint-hero.png" alt="simplicio-sprint hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-sprint">simplicio-sprint</a></h3>
-  <p>Fluxo multiagente de entrega de sprint para ler sistemas de sprint, mapear arquitetura do repo, despachar implementação e verificar contexto de entrega.</p>
-</td>
-  </tr>
-</table>
+| Projeto | Problema que resolve |
+|---|---|
+| [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) · `v3.38.0` | Agentes costumam parar no planejamento ou entregar um patch sem verificação. O orquestrador principal executa **descobrir → implementar → verificar → mergear → acompanhar 24/7**, com gates de segurança, 48 pontos de extensão e qualquer LLM/runtime. |
+| **Simplicio Runtime** *(core privado)* | Produtos de agentes duplicam roteamento de modelos, políticas de execução, evidências, recibos e contabilidade de tokens. O runtime compartilhado fornece uma espinha operacional para modelos locais/cloud, agentes e efeitos verificáveis. |
+| [**simplicio-agent**](https://github.com/wesleysimplicio/simplicio-agent) · `v2026.7.20` | Agentes autônomos podem agir sem checkpoints duráveis ou trilha de auditoria confiável. Este projeto adiciona ações controladas, checkpoints, recibos de evidência, MCP, skills e liberdade entre modelos. |
+| [**simplicio-code**](https://github.com/wesleysimplicio/simplicio-code) | Agentes de código podem se afastar do runtime que deveria executá-los. O Simplicio Code conecta um agente de programação Rust ao Simplicio Runtime. |
+| [**simplicio-dev-cli**](https://github.com/wesleysimplicio/simplicio-dev-cli) · `v0.16.1` | Uma tarefa em uma linha não é um processo de entrega. A CLI mapeia contexto, aplica diff revisável, executa testes e produz evidência de validação — com posicionamento de **99% de precisão** entre os principais hosts de LLM. |
+| [**simplicio-mapper**](https://github.com/wesleysimplicio/simplicio-mapper) · `v0.23.1` | Agentes começam a programar no escuro quando não têm estrutura e dependências do repositório. O Mapper cria um mapa stack-neutral e um pacote de contexto utilizável desde o primeiro minuto. |
+| [**simplicio-loop-marketing**](https://github.com/wesleysimplicio/simplicio-loop-marketing) · `v0.4.0` | Times de marketing ficam presos a um provedor e a ferramentas manuais. O pipeline independente de provedor cobre **briefing → roteiro → criativo → legenda → compliance → publicação → métricas → anúncios**. |
+| [**simplicio-local**](https://github.com/wesleysimplicio/simplicio-local) | Inferência cloud pode trazer latência, custo e restrições de privacidade. Este runtime busca inferência **100% no dispositivo** em Apple Silicon usando MLX, Metal e caminhos orientados a ANE. |
+| [**simplicio-prompt**](https://github.com/wesleysimplicio/simplicio-prompt) · `v1.14.1` | Sistemas grandes de agentes desperdiçam contexto procurando capacidades. O padrão yool + tuple + HAMT oferece endereçamento preciso, memória estruturada e economia publicada de **75% em tokens**. |
+| [**simplicio-sprint**](https://github.com/wesleysimplicio/simplicio-sprint) · `v1.2.14` | Tickets de sprint não carregam automaticamente arquitetura do repositório nem prova de entrega. Esta skill multiagente lê a sprint, mapeia o repo, despacha trabalho e verifica o resultado. |
+| [**WaveSpeedAI-Skills**](https://github.com/wesleysimplicio/WaveSpeedAI-Skills) · `v1.2.0` | Equipes de IA reconstroem integrações de provedores repetidamente. Um instalador e uma CLI expõem **700+ modelos** em hosts compatíveis com agentskills.io. |
+| [**PiAPI-Skills**](https://github.com/wesleysimplicio/PiAPI-Skills) · `v1.2.0` | Capacidades de geração de mídia ficam fragmentadas entre plataformas. Este bundle portável oferece uma superfície reutilizável para Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf e agentes genéricos. |
 
----
+### Os números que representam os resultados
 
-## `ferramentas_e_skills_de_ia`
+- **96%** — economia máxima de tokens publicada pelo projeto do agente de código Simplicio; os números de comparação também foram preservados: **65%** para Caveman e **80%** para RTK.
+- **90%** — posicionamento público atual do Simplicio Loop para redução de tokens, junto de **48** pontos de extensão.
+- **99%** — posicionamento de precisão publicado pelo Simplicio Dev CLI.
+- **75%** — posicionamento de economia de tokens publicado pelo Simplicio Prompt.
+- **700+** — modelos suportados pelo WaveSpeedAI Skills.
+- **6 skills** e **11 runtimes** — números originais de integração do Loop mantidos na história de compatibilidade do projeto.
 
-<table>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/PiAPI-Skills">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/PiAPI-Skills/main/presentation/remotion-tutorial/media/en/preview.gif" alt="PiAPI Skills tutorial preview" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/PiAPI-Skills">PiAPI-Skills</a></h3>
-  <p>Bundle de skills para Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf e agentes genéricos cobrindo geração de mídia e fluxos com LLMs.</p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/WaveSpeedAI-Skills/main/docs/media/tutorial-poster-en.png" alt="WaveSpeedAI Skills tutorial poster" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">WaveSpeedAI-Skills</a></h3>
-  <p>Um instalador e uma CLI para modelos WaveSpeedAI em hosts compatíveis com agentskills.io e ambientes multiagente.</p>
-</td>
-  </tr>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/simplicio-marketing-engine">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/simplicio-marketing-engine/main/assets/readme/marketing-engine-hero.svg" alt="simplicio-marketing-engine hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/simplicio-marketing-engine">simplicio-marketing-engine</a></h3>
-  <p>CLI de marketing com IA independente de provedor: briefing, roteiro, criativo, legenda, compliance, publicação, métricas, anúncios e roteamento por ambiente.</p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/x-virality-skills">
-<img src="https://raw.githubusercontent.com/wesleysimplicio/x-virality-skills/main/skills/x-virality/assets/x-virality-hero.png" alt="x-virality-skills hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/x-virality-skills">x-virality-skills</a></h3>
-  <p>Repo de skill standalone para otimizar posts no X com referências fundamentadas do algoritmo For You, ferramentas e testes.</p>
-</td>
-  </tr>
-</table>
+São números publicados/posicionados pelos projetos, não uma promessa de que todo workload atingirá o máximo. Os números permanecem visíveis junto da explicação do problema e da engenharia que os sustenta.
 
----
+## Ranking público atual
 
-## `open_source_e_pesquisa_de_runtime`
+Principais repositórios públicos por estrelas, excluindo forks e este repositório de perfil. Snapshot da API do GitHub em **2026-07-22**; badges de estrelas e forks continuam dinâmicos.
 
-<table>
-  <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/wesleysimplicio/ds4-simplicio-windows-v6">
-    <img src="https://raw.githubusercontent.com/wesleysimplicio/ds4-simplicio-windows-v6/main/assets/readme/us4-windows-hero-gpt-image-2.png" alt="DS4 Simplicio Windows V6 hero" width="100%" />
-  </a>
-  <h3><a href="https://github.com/wesleysimplicio/ds4-simplicio-windows-v6">ds4-simplicio-windows-v6</a></h3>
-  <p>Edição Windows do runtime de inferência local para NVIDIA, AMD, Intel, NPU, CUDA, DirectML, Vulkan, AVX e Windows ML.</p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/wesleysimplicio/x-bookmarks-panel">x-bookmarks-panel</a></h3>
-  <p>Painel Flask local-first que transforma bookmarks do x.com em uma fila acionável para triagem e execução assistidas por IA.</p>
-  <h3><a href="https://github.com/wesleysimplicio/sistema-sindico">sistema-sindico</a></h3>
-  <p>Sistema de gestão condominial em PHP/MySQL com bases de API para fluxos de app mobile.</p>
-  <h3><a href="https://github.com/wesleysimplicio/brazil-bank-open-finance-br-cli">brazil-bank CLI suite</a></h3>
-  <p>Experimentos de CLI para Open Finance e bancos brasileiros: BB, BTG, Inter, Matera, PagBank, PicPay e Open Finance BR.</p>
-  <h3><a href="https://github.com/wesleysimplicio?tab=repositories">mais repositórios</a></h3>
-  <p>Trabalhos adicionais em C#, PHP, TypeScript, Rust, Python, C++, ferramentas locais, protótipos SaaS e experimentos de infraestrutura de IA.</p>
-</td>
-  </tr>
-</table>
-
----
-
-## `repos_publicos_recentes`
-
-| Projeto | Stack | Foco |
-|---|---|---|
-| [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | Python | Loop de implementação verificada para tarefas agentic de software |
-| [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | Python | Entrega multiagente de sprint e verificação de contexto do repo |
-| [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | C++ | Runtime local de LLM para Apple Silicon |
-| [ds4-simplicio-windows-v6](https://github.com/wesleysimplicio/ds4-simplicio-windows-v6) | C++ | Runtime local de LLM para Windows |
-| [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | TypeScript | Automação de marketing com IA independente de provedor |
-| [sistema-sindico](https://github.com/wesleysimplicio/sistema-sindico) | PHP | Sistema de condomínio e base de API |
-| [brazil-bank-open-finance-br-cli](https://github.com/wesleysimplicio/brazil-bank-open-finance-br-cli) | Python | Pesquisa de CLI para Open Finance BR |
-| [brazil-bank-bb-cli](https://github.com/wesleysimplicio/brazil-bank-bb-cli), [btg](https://github.com/wesleysimplicio/brazil-bank-btg-cli), [inter](https://github.com/wesleysimplicio/brazil-bank-inter-cli), [matera](https://github.com/wesleysimplicio/brazil-bank-matera-cli), [pagbank](https://github.com/wesleysimplicio/brazil-bank-pagbank-cli), [picpay](https://github.com/wesleysimplicio/brazil-bank-picpay-cli) | JavaScript | Experimentos de CLI para bancos brasileiros |
-| [phoenix-x-algorithm](https://github.com/wesleysimplicio/phoenix-x-algorithm) | Python | Pesquisa do algoritmo do X e experimentação local |
-| [bookmarks-oss](https://github.com/wesleysimplicio/bookmarks-oss) | OSS workflow | Experimentos de conhecimento e triagem por bookmarks |
-
----
-
-## `stack_de_ferramentas`
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
-![Local First](https://img.shields.io/badge/Local--First-111827?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
-
----
-
-## `estatisticas`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
----
-
-## `sinal`
-
-- Eu me importo com IA que funciona em ambientes reais de operação, não apenas em demos.
-- Construo sistemas que preservam contexto, mapeiam repositórios, coordenam agentes e automatizam entrega.
-- Busco reconhecimento por impacto: trabalho aberto, engenharia séria e oportunidades com empresas capazes de escalar esse trabalho.
-- A direção é simples: usar IA para criar mais alavancagem para pessoas, times e o futuro do software.
-
----
-
-## `agradecimento_ao_mentor`
-
-Agradecimento especial ao meu mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980), natural da Califórnia, EUA, e autor de mais de 100 artigos científicos. Sua perspectiva humanitária e educacional sobre programação, IA e ciência reforçou minha missão: construir sistemas práticos de IA que ampliem a capacidade humana.
-
----
-
-## `analytics_github`
-
-<div align="center">
-
-### ⭐ ranking por estrelas — top 10 repositórios públicos
-
-</div>
-
-| Rank | Projeto | Estrelas | Forks | Foco |
+| Posição | Projeto | Estrelas | Forks | Papel |
 |---:|---|---:|---:|---|
-| 🚀 | [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=flat-square&label=stars&logo=github&color=7C3AED) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-loop?style=flat-square&label=forks&logo=github&color=38bdf8) | Flagship — Universal Looping AI Orchestrator (v1.0.1) |
-| 1 | [ds4-simplicio-apple-v6](https://github.com/wesleysimplicio/ds4-simplicio-apple-v6) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/ds4-simplicio-apple-v6?style=flat-square&label=forks&logo=github&color=38bdf8) | Runtime local de LLM para Apple Silicon |
-| 2 | [hermes-turbo-agent](https://github.com/wesleysimplicio/hermes-turbo-agent) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/hermes-turbo-agent?style=flat-square&label=forks&logo=github&color=38bdf8) | Pesquisa de performance do Hermes Agent |
-| 3 | [simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-dev-cli?style=flat-square&label=forks&logo=github&color=38bdf8) | CLI de execução agentic de tarefas |
-| 4 | [simplicio-mapper](https://github.com/wesleysimplicio/simplicio-mapper) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-mapper?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-mapper?style=flat-square&label=forks&logo=github&color=38bdf8) | Mapeamento de projetos para LLMs |
-| 5 | [simplicio-prompt](https://github.com/wesleysimplicio/simplicio-prompt) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-prompt?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-prompt?style=flat-square&label=forks&logo=github&color=38bdf8) | Padrão de endereçamento de capacidades para agentes |
-| 6 | [PiAPI-Skills](https://github.com/wesleysimplicio/PiAPI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/PiAPI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/PiAPI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | Skills de geração de mídia com IA |
-| 7 | [simplicio-marketing-engine](https://github.com/wesleysimplicio/simplicio-marketing-engine) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-marketing-engine?style=flat-square&label=forks&logo=github&color=38bdf8) | CLI de automação de marketing com IA |
-| 8 | [simplicio-sprint](https://github.com/wesleysimplicio/simplicio-sprint) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-sprint?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/simplicio-sprint?style=flat-square&label=forks&logo=github&color=38bdf8) | Entrega multiagente de sprint |
-| 9 | [x-bookmarks-panel](https://github.com/wesleysimplicio/x-bookmarks-panel) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/x-bookmarks-panel?style=flat-square&label=forks&logo=github&color=38bdf8) | Fluxo local-first para bookmarks do X |
-| 10 | [WaveSpeedAI-Skills](https://github.com/wesleysimplicio/WaveSpeedAI-Skills) | ![Stars](https://img.shields.io/github/stars/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=stars&logo=github&color=facc15) | ![Forks](https://img.shields.io/github/forks/wesleysimplicio/WaveSpeedAI-Skills?style=flat-square&label=forks&logo=github&color=38bdf8) | Skills de modelos WaveSpeedAI |
+| 1 | [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) | **17** | **4** | Performance, benchmarks e pesquisa de baixa latência |
+| 2 | [**simplicio-local**](https://github.com/wesleysimplicio/simplicio-local) | **14** | **1** | Inferência local em Apple Silicon |
+| 3 | [**simplicio-loop**](https://github.com/wesleysimplicio/simplicio-loop) | **12** | **2** | Orquestrador universal de trabalho com IA · flagship |
+| 4 | [**simplicio**](https://github.com/wesleysimplicio/simplicio) | **10** | **0** | Runtime de coding agent e execução multiagente |
+| 5 | [**simplicio-loop-marketing**](https://github.com/wesleysimplicio/simplicio-loop-marketing) | **7** | **1** | Pipeline de marketing com IA independente de provedor |
+| 6 | [**simplicio-mapper**](https://github.com/wesleysimplicio/simplicio-mapper) | **7** | **0** | Mapeamento de repositório e contexto para agentes |
+| 7 | [**PiAPI-Skills**](https://github.com/wesleysimplicio/PiAPI-Skills) | **6** | **0** | Skills portáveis para geração de mídia |
+| 8 | [**simplicio-prompt**](https://github.com/wesleysimplicio/simplicio-prompt) | **6** | **1** | Endereçamento eficiente de capacidades |
+| 9 | [**simplicio-agent**](https://github.com/wesleysimplicio/simplicio-agent) | **4** | **0** | Runtime de agente autônomo controlado |
+| 10 | [**simplicio-dev-cli**](https://github.com/wesleysimplicio/simplicio-dev-cli) | **2** | **1** | Execução verificável de tarefa até diff |
+
+## Superfície de engenharia
+
+`Python` · `Rust` · `TypeScript` · `C++` · `Node.js` · `MLX` · `Metal` · `MCP` · `Docker` · `GitHub Actions` · agentes de IA local-first
+
+O trabalho cobre todo o caminho: primitivas de modelo/runtime, mapeamento de repositórios, skills de agentes, mudanças de código verificadas, automação de marketing e distribuição open source.
+
+## Analytics vivos do perfil
 
 <div align="center">
 
-### visão geral do perfil
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Estatísticas públicas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Principais linguagens públicas" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleysimplicio&theme=tokyonight" alt="Profile details summary" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleysimplicio&theme=tokyonight" alt="Resumo do perfil no GitHub" width="90%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wesleysimplicio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="GitHub public stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimplicio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top public languages" />
-
-### histórico de estrelas nos principais projetos
-
-<a href="https://star-history.com/#wesleysimplicio/simplicio-loop&wesleysimplicio/ds4-simplicio-apple-v6&wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-dev-cli&wesleysimplicio/simplicio-mapper&wesleysimplicio/simplicio-prompt&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-marketing-engine&wesleysimplicio/simplicio-sprint&wesleysimplicio/x-bookmarks-panel&wesleysimplicio/WaveSpeedAI-Skills&Date">
-  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/simplicio-loop,wesleysimplicio/ds4-simplicio-apple-v6,wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-dev-cli,wesleysimplicio/simplicio-mapper,wesleysimplicio/simplicio-prompt,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-marketing-engine,wesleysimplicio/simplicio-sprint,wesleysimplicio/x-bookmarks-panel,wesleysimplicio/WaveSpeedAI-Skills&type=Date&theme=dark" alt="Star history across top repositories" width="90%" />
+<a href="https://star-history.com/#wesleysimplicio/hermes-turbo-agent&wesleysimplicio/simplicio-local&wesleysimplicio/simplicio-loop&wesleysimplicio/simplicio&wesleysimplicio/simplicio-loop-marketing&wesleysimplicio/simplicio-mapper&wesleysimplicio/PiAPI-Skills&wesleysimplicio/simplicio-prompt&wesleysimplicio/simplicio-agent&wesleysimplicio/simplicio-dev-cli&Date">
+  <img src="https://api.star-history.com/svg?repos=wesleysimplicio/hermes-turbo-agent,wesleysimplicio/simplicio-local,wesleysimplicio/simplicio-loop,wesleysimplicio/simplicio,wesleysimplicio/simplicio-loop-marketing,wesleysimplicio/simplicio-mapper,wesleysimplicio/PiAPI-Skills,wesleysimplicio/simplicio-prompt,wesleysimplicio/simplicio-agent,wesleysimplicio/simplicio-dev-cli&type=Date&theme=dark" alt="Histórico de estrelas do top 10" width="90%" />
 </a>
 
-### gráfico de atividade de contribuição
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity%20(commits%20%2F%20PRs%20%2F%20issues)" alt="Contribution activity graph" width="90%" />
-
-### sequência e horários produtivos
-
-<img src="https://streak-stats.demolab.com?user=wesleysimplicio&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub weekly streak" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleysimplicio&theme=tokyonight&utcOffset=-3" alt="Productive time of day" height="180" />
-
-
-### resumo de linguagens e repositórios
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleysimplicio&theme=tokyonight" alt="Repos per language" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleysimplicio&theme=tokyonight" alt="Most commits by language" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleysimplicio&theme=tokyonight" alt="Overall stats summary" width="44%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleysimplicio&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribuição" alt="Gráfico de atividade" width="90%" />
 
 </div>
 
-> Ranking atualizado pela API pública do GitHub em 2026-06-01, excluindo forks e o repositório de perfil. Badges de estrelas e forks atualizam automaticamente pelo GitHub.
-> WakaTime continua removido porque depende de conta/dados externos e pode renderizar vazio ou quebrado em um perfil público.
-> Contagens de clones e downloads de releases exigem autenticação na GitHub Traffic API e não podem ser embutidas diretamente em um README público.
+> Ranking e contagens atualizados pela API pública do GitHub em 2026-07-22. Cards e badges são widgets vivos. Contagem de clones e downloads de releases não foi incluída porque a Traffic API do GitHub exige acesso autenticado.
 
----
-
-## `conectar`
+## Conecte-se
 
 - GitHub: [@wesleysimplicio](https://github.com/wesleysimplicio)
-- Repositories: [github.com/wesleysimplicio?tab=repositories](https://github.com/wesleysimplicio?tab=repositories)
 - X: [@wesleysimplic](https://x.com/wesleysimplic)
-- Instagram: [@wesleysimplicio](https://instagram.com/wesleysimplicio)
 - LinkedIn: [wesleysimplicio](https://br.linkedin.com/in/wesleysimplicio)
 - YouTube: [@wesleysimplicio](https://www.youtube.com/@wesleysimplicio)
 
 <div align="center">
 
-### `transformando ideias de IA em sistemas que executam`
+### Transformando ideias de IA em sistemas que executam.
 
 </div>
