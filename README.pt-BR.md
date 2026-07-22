@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-engenheiro de software AI-native de nível mundial | entrega em alta performance e escala | qualidade sem concessões
+engenheiro de software AI-native | uso agentes para entregar mais e manter cada mudança sob controle
 ```
 
 [![Seguidores](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -17,13 +17,15 @@ engenheiro de software AI-native de nível mundial | entrega em alta performance
 
 ---
 
-## `entrega_em_escala`
+## `como_eu_trabalho`
 
 <div align="center">
 
-### Desenvolvimento AI-native de nível mundial: máxima velocidade de execução, zero atalhos de qualidade
+### Eu uso IA para entregar mais código sem baixar o nível
 
-Eu uso IA como multiplicador de engenharia para movimentar **tasks, commits e PRs em paralelo e com alta performance** — mantendo os controles que tornam o software confiável.
+Minha ambição é direta: ser o melhor desenvolvedor AI-native do mundo. Não espero que ninguém acredite nisso só porque escrevi em um README. Os commits, testes, reviews e PRs mergeados precisam provar isso.
+
+Gerar código é a parte fácil. O que dá trabalho é tocar várias mudanças ao mesmo tempo, revisar cada uma e levar tudo até a `main` sem perder o fio.
 
 `entrada da task → execução com escopo → commit → matriz de testes → revisão adversarial → evidências → PR → resolução de conflitos → merge verificado`
 
@@ -34,11 +36,9 @@ Eu uso IA como multiplicador de engenharia para movimentar **tasks, commits e PR
 
 </div>
 
-| Como eu gero performance em escala | Como eu preservo a qualidade |
-| --- | --- |
-| Eu orquestro slots paralelos de agentes que transformam filas de issues em tasks, commits e PRs focados, em vez de uma única sessão serial e longa. | Eu exijo escopo e critérios de aceite congelados, testes unitários/de integração/de sistema/de regressão, revisão adversarial, evidências de CI, resolução de conflitos e nova verificação do merge remoto. |
+Eu separo a fila em tasks focadas e dou um slot de execução para cada uma. Um agente implementa enquanto outro confere o diff, roda os testes que importam ou tenta quebrar o resultado. Mesmo assim, toda mudança precisa de escopo claro, commit revisável, evidência dos testes, PR e confirmação de que o merge chegou de verdade ao remoto.
 
-Meu benchmark não é atividade bruta. É **entrega de alto throughput que chega à branch padrão com implementação, testes, revisão e evidências anexadas**. É assim que eu compito no mais alto nível do desenvolvimento de software AI-native.
+É essa vantagem que estou construindo: ritmo de time grande, com o cuidado que eu esperaria de um bom desenvolvedor sênior.
 
 ---
 
@@ -54,13 +54,13 @@ Meu benchmark não é atividade bruta. É **entrega de alto throughput que chega
 [![Estrelas](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=for-the-badge&color=facc15&logo=github)](https://github.com/wesleysimplicio/simplicio-loop/stargazers)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-2563EB?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop/blob/main/LICENSE)
 
-### O Orquestrador Universal de Loops de IA
+### Um agente que fica até o trabalho terminar
 
-A maioria dos agentes para em uma resposta, um plano ou um patch sem verificação. O Simplicio Loop assume todo o ciclo de entrega:
+A maioria dos agentes de código entrega um patch e para. Eu criei o Simplicio Loop para continuar até os testes passarem, a revisão ficar limpa e a mudança entrar na branch principal.
 
 `descobrir → planejar → implementar → testar → verificar → revisar → mergear → fechar → acompanhar 24/7`
 
-Qualquer LLM. Qualquer runtime. Gates de segurança, evidências, controle de custo e continuação determinística até o trabalho estar realmente entregue.
+Ele funciona com qualquer LLM ou runtime. O loop guarda recibos, controla ações de risco, acompanha o custo e continua do último estado verificado em vez de começar tudo de novo.
 
 </div>
 
@@ -80,7 +80,7 @@ Qualquer LLM. Qualquer runtime. Gates de segurança, evidências, controle de cu
 
 </div>
 
-> Os números permanecem visíveis porque representam resultados e posicionamentos publicados pelos projetos. São máximos ou números de projeto, não promessa de que todo workload atingirá o teto. As comparações originais também foram preservadas: **Caveman 65%** e **RTK 80%** contra os **até 96%** publicados pelo Simplicio.
+> Estes são máximos publicados por cada projeto, não uma promessa de que todo workload vai chegar ao mesmo número. Também mantive a comparação original: **Caveman 65%**, **RTK 80%** e Simplicio com **até 96%**.
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Qualquer LLM. Qualquer runtime. Gates de segurança, evidências, controle de cu
 
 ## `sala_de_controle_do_ecossistema`
 
-Cada projeto tem uma função: remover uma fonte específica de falha entre uma ideia e um resultado verificado.
+Eu criei estes projetos porque os mesmos problemas continuavam aparecendo: agentes perdendo contexto, ferramentas editando a coisa errada, tasks parando antes da revisão e resultados sem prova.
 
 ### Orquestração e agência
 
@@ -106,7 +106,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-agent">simplicio-agent</a> · v2026.7.20</h3>
   <p><strong>Problema:</strong> agentes autônomos podem agir sem checkpoints duráveis ou trilha de auditoria confiável.</p>
-  <p><strong>Resolve com:</strong> ações controladas, checkpoints, recibos de evidência, MCP, skills, liberdade entre modelos e fronteiras determinísticas apoiadas por Rust.</p>
+  <p><strong>O que eu construí:</strong> ações controladas, checkpoints, recibos de evidência, MCP, skills, liberdade entre modelos e fronteiras determinísticas apoiadas por Rust.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio">
@@ -114,7 +114,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio">simplicio</a> · v3.5.2</h3>
   <p><strong>Problema:</strong> ferramentas de código com IA desperdiçam contexto e fragmentam chat, mapeamento, edição e trabalho multiagente.</p>
-  <p><strong>Resolve com:</strong> um runtime e uma distribuição unificada para coding agents, preservando o resultado publicado de <strong>até 96% de economia de tokens</strong>.</p>
+  <p><strong>O que eu construí:</strong> um runtime e uma distribuição unificada para coding agents, preservando o resultado publicado de <strong>até 96% de economia de tokens</strong>.</p>
 </td>
 </tr>
 </table>
@@ -124,13 +124,13 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
 <td width="50%" valign="top">
   <h3>Simplicio Runtime · core privado</h3>
   <p><strong>Problema:</strong> cada produto de agente teria que reconstruir roteamento de modelos, políticas, evidências, recibos, inferência local/cloud e contabilidade de tokens.</p>
-  <p><strong>Resolve com:</strong> uma espinha operacional nativa para todo o ecossistema. Continua privado e não é apresentado como repositório público.</p>
+  <p><strong>O que eu construí:</strong> uma espinha operacional nativa para todo o ecossistema. Continua privado e não é apresentado como repositório público.</p>
   <p><code>modelos → política → ferramentas → efeitos → recibos → evidência</code></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/wesleysimplicio/simplicio-code">simplicio-code</a> · Rust</h3>
   <p><strong>Problema:</strong> agentes de código se afastam do runtime, das evidências e das fronteiras de execução que deveriam governá-los.</p>
-  <p><strong>Resolve com:</strong> um coding agent em Rust ligado ao Simplicio Runtime, conectando decisões de implementação à execução controlada.</p>
+  <p><strong>O que eu construí:</strong> um coding agent em Rust ligado ao Simplicio Runtime, conectando decisões de implementação à execução controlada.</p>
   <p><code>pedido → contexto → patch → runtime → prova</code></p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-dev-cli">simplicio-dev-cli</a> · v0.16.1</h3>
   <p><strong>Problema:</strong> um pedido de código em uma linha não é um processo de entrega.</p>
-  <p><strong>Resolve com:</strong> contexto mapeado, edições determinísticas, testes, retries, diffs revisáveis e evidências — com posicionamento de <strong>99% de precisão</strong> nos principais hosts de LLM.</p>
+  <p><strong>O que eu construí:</strong> contexto mapeado, edições determinísticas, testes, retries, diffs revisáveis e evidências. O projeto se posiciona em torno de <strong>99% de precisão</strong> nos principais hosts de LLM.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-mapper">
@@ -154,7 +154,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-mapper">simplicio-mapper</a> · v0.23.1</h3>
   <p><strong>Problema:</strong> agentes começam a programar no escuro sem estrutura, dependências, símbolos e precedentes do repositório.</p>
-  <p><strong>Resolve com:</strong> mapa stack-neutral e pacote de contexto comprimido disponível desde o primeiro minuto.</p>
+  <p><strong>O que eu construí:</strong> mapa stack-neutral e pacote de contexto comprimido disponível desde o primeiro minuto.</p>
 </td>
 </tr>
 </table>
@@ -167,7 +167,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-prompt">simplicio-prompt</a> · v1.14.1</h3>
   <p><strong>Problema:</strong> sistemas grandes de agentes desperdiçam contexto procurando capacidades e memória.</p>
-  <p><strong>Resolve com:</strong> endereçamento yool + tuple-space + HAMT, guardrails, recibos e posicionamento publicado de <strong>75% de economia de tokens</strong>.</p>
+  <p><strong>O que eu construí:</strong> endereçamento yool + tuple-space + HAMT, guardrails, recibos e posicionamento publicado de <strong>75% de economia de tokens</strong>.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-sprint">
@@ -175,7 +175,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-sprint">simplicio-sprint</a> · v1.2.14</h3>
   <p><strong>Problema:</strong> tickets de sprint não carregam arquitetura do repo nem prova de entrega.</p>
-  <p><strong>Resolve com:</strong> intake de Jira/Azure DevOps, mapeamento do repositório, despacho multiagente e verificação do resultado.</p>
+  <p><strong>O que eu construí:</strong> intake de Jira/Azure DevOps, mapeamento do repositório, despacho multiagente e verificação do resultado.</p>
 </td>
 </tr>
 </table>
@@ -190,7 +190,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-local">simplicio-local</a></h3>
   <p><strong>Problema:</strong> inferência cloud adiciona latência, custo recorrente, dependência de rede e restrições de privacidade.</p>
-  <p><strong>Resolve com:</strong> caminhos de inferência <strong>100% no dispositivo</strong> em Apple Silicon usando MLX, Metal e arquitetura orientada a ANE.</p>
+  <p><strong>O que eu construí:</strong> caminhos de inferência <strong>100% no dispositivo</strong> em Apple Silicon usando MLX, Metal e arquitetura orientada a ANE.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-loop-marketing">
@@ -198,7 +198,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-loop-marketing">simplicio-loop-marketing</a> · v0.4.0</h3>
   <p><strong>Problema:</strong> times de marketing ficam presos a um provedor e a ferramentas manuais desconectadas.</p>
-  <p><strong>Resolve com:</strong> <code>briefing → roteiro → criativo → legenda → compliance → publicação → métricas → anúncios</code>, com roteamento de provedores por configuração.</p>
+  <p><strong>O que eu construí:</strong> <code>briefing → roteiro → criativo → legenda → compliance → publicação → métricas → anúncios</code>, com roteamento de provedores por configuração.</p>
 </td>
 </tr>
 </table>
@@ -211,7 +211,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/PiAPI-Skills">PiAPI-Skills</a> · v1.2.0</h3>
   <p><strong>Problema:</strong> capacidades de geração de mídia ficam fragmentadas entre plataformas de agentes.</p>
-  <p><strong>Resolve com:</strong> uma superfície portável de skills para Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf e agentes genéricos.</p>
+  <p><strong>O que eu construí:</strong> uma superfície portável de skills para Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf e agentes genéricos.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
@@ -219,7 +219,7 @@ Cada projeto tem uma função: remover uma fonte específica de falha entre uma 
   </a>
   <h3><a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">WaveSpeedAI-Skills</a> · v1.2.0</h3>
   <p><strong>Problema:</strong> equipes reconstroem integrações de provedores para cada host de agentes.</p>
-  <p><strong>Resolve com:</strong> um instalador e uma CLI que expõem <strong>700+ modelos</strong> para ambientes compatíveis com agentskills.io.</p>
+  <p><strong>O que eu construí:</strong> um instalador e uma CLI que expõem <strong>700+ modelos</strong> para ambientes compatíveis com agentskills.io.</p>
 </td>
 </tr>
 </table>
@@ -297,34 +297,34 @@ Principais repositórios públicos por estrelas, excluindo forks e o repositóri
   <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Banner original do Hermes Agent" width="100%" />
 </a>
 
-### Impacto das contribuições upstream
+### O que eu mudei no projeto original
 
 [![38 commits upstream](https://img.shields.io/badge/38-contribui%C3%A7%C3%B5es%20de%20commit%20upstream-FFD21E?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/NousResearch/hermes-agent/commits/main/?author=wesleysimplicio)
 
-**38 contribuições de commit para o Hermes Agent original em 2026, até 22 de julho.** Essas mudanças melhoraram o projeto em quatro frentes práticas:
+O GitHub registra **38 contribuições de commit** minhas no Hermes Agent original em 2026 até 22 de julho. O trabalho entrou em partes do produto que as pessoas usam de verdade:
 
-- **Experiência do agente e dashboard** — manteve os modelos do provider selecionado visíveis durante buscas, habilitou rolagem no dashboard mobile e tornou seleção/cópia no terminal mais previsível.
-- **Resiliência do runtime e containers** — fortaleceu detecção do gateway no Docker, propagação de ambiente para terminal e áudio, degradação sem adapters, limpeza de processos órfãos e recuperação de erros transitórios.
-- **Compatibilidade de modelos e integrações** — melhorou fallback de chaves de API, extração de thinking do DeepSeek V4, normalização de providers/perfis, autodetecção do browser e compatibilidade IMAP.
-- **Correção dos workflows** — reforçou selects e migrações do Kanban, recomputação de dependências prontas, busca de sessões com tokens CJK curtos, checkpoints e empacotamento de dependências opcionais.
+- Corrigi detalhes do dashboard e do terminal que atrapalhavam o uso, incluindo busca por provider, rolagem no celular e seleção/cópia de texto.
+- Deixei o Hermes menos frágil no Docker, com melhorias na detecção do gateway, propagação de ambiente, limpeza de processos órfãos e recuperação de falhas temporárias.
+- Adicionei correções de compatibilidade para chaves de API de fallback, blocos de thinking do DeepSeek V4, perfis de provider, detecção do browser e IMAP.
+- Reforcei migrações e dependências do Kanban, busca de sessões com tokens CJK curtos, checkpoints e empacotamento de dependências opcionais.
 
-- [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) — branch de performance com benchmarks, comparações visuais, relatório de tokens e pesquisa segura de hot paths.
-- [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel) — transforma posts salvos no X em uma fila local de trabalho com IA.
-- [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills) — fluxos fundamentados em fontes para o algoritmo For You do X.
-- [**sistema-sindico**](https://github.com/wesleysimplicio/sistema-sindico) — gestão condominial PHP/MySQL com base de API pronta para mobile.
-- [**Suíte de CLIs bancárias brasileiras**](https://github.com/wesleysimplicio?tab=repositories&q=brazil-bank) — experimentos de Open Finance e bancos: BB, BTG, Inter, Matera, PagBank, PicPay e Open Finance BR.
+- [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent): branch de performance com benchmarks, comparações visuais, relatório de tokens e pesquisa segura de hot paths.
+- [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel): transforma posts salvos no X em uma fila local de trabalho com IA.
+- [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills): fluxos fundamentados em fontes para o algoritmo For You do X.
+- [**sistema-sindico**](https://github.com/wesleysimplicio/sistema-sindico): gestão condominial PHP/MySQL com base de API pronta para mobile.
+- [**Suíte de CLIs bancárias brasileiras**](https://github.com/wesleysimplicio?tab=repositories&q=brazil-bank): experimentos de Open Finance e bancos: BB, BTG, Inter, Matera, PagBank, PicPay e Open Finance BR.
 
 ---
 
 ## `missao`
 
-Eu construo sistemas de IA que transformam contexto em execução confiável. O objetivo é criar alavancagem prática para pessoas e equipes: menos perda de contexto, menos trabalho repetitivo, automação mais segura e software capaz de avançar da ideia ao resultado verificado.
+Eu gosto de IA quando ela sobrevive ao contato com um repositório de verdade. Ela precisa entender o código, lembrar por que uma decisão foi tomada, coordenar o trabalho com segurança e deixar evidência suficiente para outra pessoa confiar no resultado.
 
-Eu me importo com IA que funciona em ambientes reais, não apenas demos — sistemas que mapeiam repositórios, preservam contexto, coordenam agentes, controlam efeitos e provam o que entregaram.
+Estou construindo as ferramentas que eu queria usar no meu próprio trabalho: menos contexto perdido entre sessões, menos repetição e mais mudanças que saem de uma issue e chegam a um merge verificado.
 
 ## `reconhecimento_ao_mentor`
 
-Agradecimento especial ao meu mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980), natural da Califórnia, EUA, e autor de mais de 100 artigos científicos. Sua perspectiva humanitária e educacional sobre programação, IA e trabalho científico ajudou a reforçar minha missão: construir sistemas práticos de IA que ampliem a capacidade humana.
+[Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980) tem sido um mentor importante para mim. Ele é da Califórnia e escreveu mais de 100 artigos científicos. Sua visão sobre programação e IA parte da educação e do trabalho humanitário, e isso influenciou a maneira como penso em tecnologia útil para pessoas.
 
 ## `conecte_se`
 
@@ -336,6 +336,6 @@ Agradecimento especial ao meu mentor [Jesse Daniel Brown, PhD](https://github.co
 
 <div align="center">
 
-### `transformando ideias de IA em sistemas que executam`
+### `eu construo sistemas de IA que terminam o trabalho`
 
 </div>

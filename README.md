@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-world-class AI-native software engineer | high-performance delivery at scale | quality without compromise
+AI-native software engineer | I use agents to ship more work and keep every change accountable
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -17,13 +17,15 @@ world-class AI-native software engineer | high-performance delivery at scale | q
 
 ---
 
-## `delivery_at_scale`
+## `how_i_work`
 
 <div align="center">
 
-### World-class AI-native development: maximum execution velocity, zero quality shortcuts
+### I use AI to ship more code without lowering the bar
 
-I use AI as an engineering multiplier to move **tasks, commits, and PRs in parallel at high performance** — while keeping the controls that make software trustworthy.
+My aim is blunt: become the best AI-native developer in the world. I do not expect anyone to believe that because I put it in a README. The commits, tests, reviews, and merged PRs have to make the case.
+
+Generating code is the easy part. The useful part is moving several pieces of work through tests, review, and into `main` without losing track of what changed.
 
 `task intake → scoped execution → commit → test matrix → adversarial review → evidence → PR → conflict resolution → verified merge`
 
@@ -34,11 +36,9 @@ I use AI as an engineering multiplier to move **tasks, commits, and PRs in paral
 
 </div>
 
-| How I create performance at scale | How I preserve quality |
-| --- | --- |
-| I orchestrate parallel agent slots that turn issue queues into focused tasks, commits, and PRs instead of one long serial session. | I enforce frozen scope and acceptance criteria, unit/integration/system/regression checks, adversarial review, CI evidence, conflict resolution, and a fresh remote merge check. |
+I split the queue into focused tasks and give each one its own execution slot. One agent can implement while another checks the diff, runs the relevant tests, or tries to break the result. Every change still needs a clear scope, reviewable commit, test evidence, a PR, and confirmation that the merge really reached the remote branch.
 
-My benchmark is not raw activity. It is **high-throughput delivery that reaches the default branch with implementation, tests, review, and evidence attached**. That is how I compete at the highest level of AI-native software engineering.
+That is the advantage I am building: the pace of a much larger engineering team, with the care I would expect from a strong senior developer.
 
 ---
 
@@ -54,13 +54,13 @@ My benchmark is not raw activity. It is **high-throughput delivery that reaches 
 [![Stars](https://img.shields.io/github/stars/wesleysimplicio/simplicio-loop?style=for-the-badge&color=facc15&logo=github)](https://github.com/wesleysimplicio/simplicio-loop/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge)](https://github.com/wesleysimplicio/simplicio-loop/blob/main/LICENSE)
 
-### The Universal Looping AI Orchestrator
+### An agent that stays until the work is actually done
 
-Most agents stop at an answer, a plan, or an unverified patch. Simplicio Loop owns the whole delivery cycle:
+Most coding agents hand back a patch and stop. I built Simplicio Loop to keep the work moving until the tests pass, the review is clean, and the change is merged.
 
 `discover → plan → implement → test → verify → review → merge → close → watch 24/7`
 
-Any LLM. Any runtime. Safety gates, evidence, cost controls, and deterministic continuation until the work is genuinely delivered.
+It works with any LLM or runtime. The loop keeps receipts, controls risky actions, watches cost, and continues from the last verified state instead of starting over.
 
 </div>
 
@@ -80,7 +80,7 @@ Any LLM. Any runtime. Safety gates, evidence, cost controls, and deterministic c
 
 </div>
 
-> The numbers remain visible because they represent the projects' published results and positioning. They are maximums or project-level claims, not a promise that every workload reaches the ceiling. The original comparison figures are also preserved: **Caveman 65%** and **RTK 80%** versus Simplicio's reported **up to 96%**.
+> These are published project-level maximums, not a promise that every workload will hit the same number. I also kept the original comparison: **Caveman 65%**, **RTK 80%**, and Simplicio at **up to 96%**.
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Any LLM. Any runtime. Safety gates, evidence, cost controls, and deterministic c
 
 ## `ecosystem_control_room`
 
-Every project has one job: remove a specific source of failure between an idea and a verified result.
+I built these projects because the same problems kept coming back: agents losing context, tools editing the wrong thing, tasks stopping before review, and results with no proof behind them.
 
 ### Orchestration and agency
 
@@ -106,7 +106,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-agent">simplicio-agent</a> · v2026.7.20</h3>
   <p><strong>Problem:</strong> autonomous agents can act without durable checkpoints or a trustworthy audit trail.</p>
-  <p><strong>Solves it with:</strong> gated actions, checkpoints, evidence receipts, MCP, skills, multi-model freedom, and Rust-backed deterministic boundaries.</p>
+  <p><strong>What I built:</strong> gated actions, checkpoints, evidence receipts, MCP, skills, multi-model freedom, and Rust-backed deterministic boundaries.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio">
@@ -114,7 +114,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio">simplicio</a> · v3.5.2</h3>
   <p><strong>Problem:</strong> AI coding tools waste context and fragment chat, mapping, editing, and multi-agent work.</p>
-  <p><strong>Solves it with:</strong> one coding-agent runtime and distribution surface, preserving the published <strong>up to 96% token-savings</strong> result.</p>
+  <p><strong>What I built:</strong> one coding-agent runtime and distribution surface, preserving the published <strong>up to 96% token-savings</strong> result.</p>
 </td>
 </tr>
 </table>
@@ -124,13 +124,13 @@ Every project has one job: remove a specific source of failure between an idea a
 <td width="50%" valign="top">
   <h3>Simplicio Runtime · private core</h3>
   <p><strong>Problem:</strong> every agent product otherwise rebuilds model routing, execution policy, evidence, receipts, local/cloud inference, and token accounting.</p>
-  <p><strong>Solves it with:</strong> one native operational spine for the full ecosystem. It remains private and is intentionally not presented as a public repository.</p>
+  <p><strong>What I built:</strong> one native operational spine for the full ecosystem. It remains private and is intentionally not presented as a public repository.</p>
   <p><code>models → policy → tools → effects → receipts → evidence</code></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/wesleysimplicio/simplicio-code">simplicio-code</a> · Rust</h3>
   <p><strong>Problem:</strong> coding agents drift from the runtime, evidence, and execution boundaries that are supposed to govern them.</p>
-  <p><strong>Solves it with:</strong> a Rust coding agent powered by Simplicio Runtime, connecting implementation decisions to controlled execution.</p>
+  <p><strong>What I built:</strong> a Rust coding agent powered by Simplicio Runtime, connecting implementation decisions to controlled execution.</p>
   <p><code>request → context → patch → runtime → proof</code></p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-dev-cli">simplicio-dev-cli</a> · v0.16.1</h3>
   <p><strong>Problem:</strong> a one-line coding request is not a delivery process.</p>
-  <p><strong>Solves it with:</strong> mapped context, deterministic edits, tests, retries, reviewable diffs, and evidence — positioned around <strong>99% accuracy</strong> across major LLM hosts.</p>
+  <p><strong>What I built:</strong> mapped context, deterministic edits, tests, retries, reviewable diffs, and evidence. The project is positioned around <strong>99% accuracy</strong> across major LLM hosts.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-mapper">
@@ -154,7 +154,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-mapper">simplicio-mapper</a> · v0.23.1</h3>
   <p><strong>Problem:</strong> agents begin coding blind when repository structure, dependencies, symbols, and precedent are missing.</p>
-  <p><strong>Solves it with:</strong> a stack-neutral project map and compressed context pack available from minute one.</p>
+  <p><strong>What I built:</strong> a stack-neutral project map and compressed context pack available from minute one.</p>
 </td>
 </tr>
 </table>
@@ -167,7 +167,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-prompt">simplicio-prompt</a> · v1.14.1</h3>
   <p><strong>Problem:</strong> large agent systems waste context searching for capabilities and memory.</p>
-  <p><strong>Solves it with:</strong> yool + tuple-space + HAMT addressing, guardrails, receipts, and a published <strong>75% token-economy</strong> position.</p>
+  <p><strong>What I built:</strong> yool + tuple-space + HAMT addressing, guardrails, receipts, and a published <strong>75% token-economy</strong> position.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-sprint">
@@ -175,7 +175,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-sprint">simplicio-sprint</a> · v1.2.14</h3>
   <p><strong>Problem:</strong> sprint tickets do not carry repository architecture or delivery proof.</p>
-  <p><strong>Solves it with:</strong> Jira/Azure DevOps intake, repository mapping, multi-agent dispatch, and result verification.</p>
+  <p><strong>What I built:</strong> Jira/Azure DevOps intake, repository mapping, multi-agent dispatch, and result verification.</p>
 </td>
 </tr>
 </table>
@@ -190,7 +190,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-local">simplicio-local</a></h3>
   <p><strong>Problem:</strong> cloud inference adds latency, recurring cost, network dependency, and privacy constraints.</p>
-  <p><strong>Solves it with:</strong> <strong>100% on-device</strong> Apple Silicon inference paths using MLX, Metal, and ANE-oriented architecture.</p>
+  <p><strong>What I built:</strong> <strong>100% on-device</strong> Apple Silicon inference paths using MLX, Metal, and ANE-oriented architecture.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/simplicio-loop-marketing">
@@ -198,7 +198,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/simplicio-loop-marketing">simplicio-loop-marketing</a> · v0.4.0</h3>
   <p><strong>Problem:</strong> marketing teams are locked into one provider and disconnected manual tools.</p>
-  <p><strong>Solves it with:</strong> <code>brief → script → creative → caption → compliance → publish → metrics → ads</code>, with provider routing through configuration.</p>
+  <p><strong>What I built:</strong> <code>brief → script → creative → caption → compliance → publish → metrics → ads</code>, with provider routing through configuration.</p>
 </td>
 </tr>
 </table>
@@ -211,7 +211,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/PiAPI-Skills">PiAPI-Skills</a> · v1.2.0</h3>
   <p><strong>Problem:</strong> media-generation capabilities are fragmented across agent platforms.</p>
-  <p><strong>Solves it with:</strong> one portable skill surface for Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf, and generic agents.</p>
+  <p><strong>What I built:</strong> one portable skill surface for Claude, Codex, Hermes, OpenClaw, Cursor, Windsurf, and generic agents.</p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">
@@ -219,7 +219,7 @@ Every project has one job: remove a specific source of failure between an idea a
   </a>
   <h3><a href="https://github.com/wesleysimplicio/WaveSpeedAI-Skills">WaveSpeedAI-Skills</a> · v1.2.0</h3>
   <p><strong>Problem:</strong> teams repeatedly rebuild provider integrations for every agent host.</p>
-  <p><strong>Solves it with:</strong> one installer and CLI exposing <strong>700+ models</strong> to agentskills.io-compatible environments.</p>
+  <p><strong>What I built:</strong> one installer and CLI exposing <strong>700+ models</strong> to agentskills.io-compatible environments.</p>
 </td>
 </tr>
 </table>
@@ -297,34 +297,34 @@ Top public repositories by stars, excluding forks and the profile repository. Sn
   <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Hermes Agent original banner" width="100%" />
 </a>
 
-### Upstream contribution impact
+### What I changed upstream
 
 [![38 upstream commits](https://img.shields.io/badge/38-upstream%20commit%20contributions-FFD21E?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/NousResearch/hermes-agent/commits/main/?author=wesleysimplicio)
 
-**38 commit contributions to the original Hermes Agent in 2026, through July 22.** Those changes improved the project across four practical fronts:
+GitHub records **38 commit contributions** from me to the original Hermes Agent in 2026 through July 22. The work landed in parts of the product people actually touch:
 
-- **Agent and dashboard UX** — kept selected-provider models visible during search, enabled mobile dashboard scrolling, and made terminal selection/copy behavior more predictable.
-- **Runtime and container resilience** — strengthened Docker gateway detection, terminal and audio environment propagation, missing-adapter degradation, orphan-process cleanup, and transient-error recovery.
-- **Model and integration compatibility** — improved fallback API-key resolution, DeepSeek V4 thinking extraction, provider/profile normalization, browser auto-detection, and IMAP compatibility.
-- **Workflow correctness** — hardened Kanban selections and migrations, dependency readiness recomputation, short-token CJK session search, checkpoints, and optional dependency packaging.
+- Fixed dashboard and terminal details that got in the way, including provider search, mobile scrolling, and selection/copy behavior.
+- Made Hermes less fragile in Docker by improving gateway detection, environment propagation, cleanup of orphaned processes, and recovery from temporary failures.
+- Added compatibility fixes for fallback API keys, DeepSeek V4 thinking blocks, provider profiles, browser detection, and IMAP.
+- Tightened Kanban migrations and dependency handling, CJK session search, checkpoints, and optional dependency packaging.
 
-- [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) — performance branch with benchmarks, visual comparisons, token reporting, and safe hot-path research.
-- [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel) — turns saved X posts into an actionable local-first AI queue.
-- [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills) — source-grounded workflows for X's For You algorithm.
-- [**sistema-sindico**](https://github.com/wesleysimplicio/sistema-sindico) — PHP/MySQL condominium management with a mobile-ready API foundation.
-- [**Brazil banking CLI suite**](https://github.com/wesleysimplicio?tab=repositories&q=brazil-bank) — Open Finance and banking experiments across BB, BTG, Inter, Matera, PagBank, PicPay, and Open Finance BR.
+- [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent): performance branch with benchmarks, visual comparisons, token reporting, and safe hot-path research.
+- [**x-bookmarks-panel**](https://github.com/wesleysimplicio/x-bookmarks-panel): turns saved X posts into an actionable local-first AI queue.
+- [**x-virality-skills**](https://github.com/wesleysimplicio/x-virality-skills): source-grounded workflows for X's For You algorithm.
+- [**sistema-sindico**](https://github.com/wesleysimplicio/sistema-sindico): PHP/MySQL condominium management with a mobile-ready API foundation.
+- [**Brazil banking CLI suite**](https://github.com/wesleysimplicio?tab=repositories&q=brazil-bank): Open Finance and banking experiments across BB, BTG, Inter, Matera, PagBank, PicPay, and Open Finance BR.
 
 ---
 
 ## `mission`
 
-I build AI systems that turn context into reliable execution. The goal is practical leverage for people and teams: less context loss, less repetitive work, safer automation, and software that can move from an idea to a verified result.
+I like AI when it survives contact with a real repository. It should understand the codebase, remember why a decision was made, coordinate work safely, and leave enough evidence for someone else to trust the result.
 
-I care about AI that works in real operating environments, not only demos — systems that map repositories, preserve context, coordinate agents, control side effects, and prove what they delivered.
+I am building the tooling I wanted for my own work: less context lost between sessions, less repetition, and more changes that make it all the way from an issue to a verified merge.
 
 ## `mentor_acknowledgement`
 
-Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980), a California, USA native and author of 100+ scientific articles. His humanitarian and educational perspective on programming, AI, and scientific work has helped reinforce my mission: build practical AI systems that advance human capability.
+[Jesse Daniel Brown, PhD](https://github.com/JesseBrown1980) has been an important mentor to me. He is from California and has written more than 100 scientific articles. His view of programming and AI is grounded in education and humanitarian work, and it has shaped how I think about building technology that is useful to people.
 
 ## `connect`
 
@@ -336,6 +336,6 @@ Special thanks to my mentor [Jesse Daniel Brown, PhD](https://github.com/JesseBr
 
 <div align="center">
 
-### `turning AI ideas into systems that execute`
+### `I build AI systems that finish the job`
 
 </div>
