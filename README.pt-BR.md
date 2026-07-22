@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-construtor de sistemas de IA | orquestração de agentes | runtimes local-first | execução verificada
+engenheiro de software AI-native de nível mundial | entrega em alta performance e escala | qualidade sem concessões
 ```
 
 [![Seguidores](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -14,6 +14,31 @@ construtor de sistemas de IA | orquestração de agentes | runtimes local-first 
 [English](README.md) · **Português** · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Polski](README.pl.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [Bahasa Melayu](README.ms.md) · [Bahasa Indonesia](README.id.md)
 
 </div>
+
+---
+
+## `entrega_em_escala`
+
+<div align="center">
+
+### Desenvolvimento AI-native de nível mundial: máxima velocidade de execução, zero atalhos de qualidade
+
+Eu uso IA como multiplicador de engenharia para movimentar **tasks, commits e PRs em paralelo e com alta performance** — mantendo os controles que tornam o software confiável.
+
+`entrada da task → execução com escopo → commit → matriz de testes → revisão adversarial → evidências → PR → resolução de conflitos → merge verificado`
+
+![Entrega paralela](https://img.shields.io/badge/entrega-paralela%20por%20tasks-7C3AED?style=for-the-badge)
+![Gates de qualidade](https://img.shields.io/badge/commits-gates%20de%20qualidade-2563EB?style=for-the-badge)
+![Evidências](https://img.shields.io/badge/PRs-com%20evid%C3%AAncias-00A86B?style=for-the-badge)
+![Merges verificados](https://img.shields.io/badge/main-merge%20verificado-F59E0B?style=for-the-badge)
+
+</div>
+
+| Como eu gero performance em escala | Como eu preservo a qualidade |
+| --- | --- |
+| Eu orquestro slots paralelos de agentes que transformam filas de issues em tasks, commits e PRs focados, em vez de uma única sessão serial e longa. | Eu exijo escopo e critérios de aceite congelados, testes unitários/de integração/de sistema/de regressão, revisão adversarial, evidências de CI, resolução de conflitos e nova verificação do merge remoto. |
+
+Meu benchmark não é atividade bruta. É **entrega de alto throughput que chega à branch padrão com implementação, testes, revisão e evidências anexadas**. É assim que eu compito no mais alto nível do desenvolvimento de software AI-native.
 
 ---
 

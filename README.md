@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-AI systems builder | agent orchestration | local-first runtimes | verified execution
+world-class AI-native software engineer | high-performance delivery at scale | quality without compromise
 ```
 
 [![GitHub followers](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -14,6 +14,31 @@ AI systems builder | agent orchestration | local-first runtimes | verified execu
 **English** · [Português](README.pt-BR.md) · [Español](README.es.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh-CN.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Русский](README.ru.md) · [Polski](README.pl.md) · [हिन्दी](README.hi.md) · [العربية](README.ar.md) · [עברית](README.he.md) · [Bahasa Melayu](README.ms.md) · [Bahasa Indonesia](README.id.md)
 
 </div>
+
+---
+
+## `delivery_at_scale`
+
+<div align="center">
+
+### World-class AI-native development: maximum execution velocity, zero quality shortcuts
+
+I use AI as an engineering multiplier to move **tasks, commits, and PRs in parallel at high performance** — while keeping the controls that make software trustworthy.
+
+`task intake → scoped execution → commit → test matrix → adversarial review → evidence → PR → conflict resolution → verified merge`
+
+![Parallel delivery](https://img.shields.io/badge/parallel-task%20delivery-7C3AED?style=for-the-badge)
+![Quality gates](https://img.shields.io/badge/commits-quality%20gated-2563EB?style=for-the-badge)
+![Evidence](https://img.shields.io/badge/PRs-evidence%20backed-00A86B?style=for-the-badge)
+![Verified merges](https://img.shields.io/badge/main-merge%20verified-F59E0B?style=for-the-badge)
+
+</div>
+
+| How I create performance at scale | How I preserve quality |
+| --- | --- |
+| I orchestrate parallel agent slots that turn issue queues into focused tasks, commits, and PRs instead of one long serial session. | I enforce frozen scope and acceptance criteria, unit/integration/system/regression checks, adversarial review, CI evidence, conflict resolution, and a fresh remote merge check. |
+
+My benchmark is not raw activity. It is **high-throughput delivery that reaches the default branch with implementation, tests, review, and evidence attached**. That is how I compete at the highest level of AI-native software engineering.
 
 ---
 
