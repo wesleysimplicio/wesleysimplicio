@@ -268,8 +268,8 @@ Principais repositórios públicos por estrelas, excluindo forks e o repositóri
 
 ## `laboratorio_open_source`
 
-<a href="https://github.com/wesleysimplicio/hermes-turbo-agent">
-  <img src="https://raw.githubusercontent.com/wesleysimplicio/hermes-turbo-agent/main/docs/assets/hermes-turbo-brand/hermes-turbo-agent-vs-openclaw-banner.png" alt="Pesquisa de benchmark do Hermes Turbo Agent" width="100%" />
+<a href="https://github.com/NousResearch/hermes-agent">
+  <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Banner original do Hermes Agent" width="100%" />
 </a>
 
 - [**hermes-turbo-agent**](https://github.com/wesleysimplicio/hermes-turbo-agent) — branch de performance com benchmarks, comparações visuais, relatório de tokens e pesquisa segura de hot paths.
