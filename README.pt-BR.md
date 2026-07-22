@@ -3,7 +3,7 @@
 # Wesley Simplicio
 
 ```txt
-engenheiro de software AI-native | uso agentes para entregar mais e manter cada mudança sob controle
+engenheiro de software AI-native | construo com agentes e reviso cada mudança antes de entregar
 ```
 
 [![Seguidores](https://img.shields.io/github/followers/wesleysimplicio?style=for-the-badge&color=0f172a)](https://github.com/wesleysimplicio)
@@ -21,11 +21,11 @@ engenheiro de software AI-native | uso agentes para entregar mais e manter cada 
 
 <div align="center">
 
-### Eu uso IA para entregar mais código sem baixar o nível
+### Como eu uso IA em projetos reais
 
-Minha ambição é direta: ser o melhor desenvolvedor AI-native do mundo. Não espero que ninguém acredite nisso só porque escrevi em um README. Os commits, testes, reviews e PRs mergeados precisam provar isso.
+Normalmente tenho várias mudanças andando ao mesmo tempo. A IA ajuda a escrever código, mas eu acompanho cada tarefa pelos testes, pela revisão, pela pull request e pelo merge na `main`.
 
-Gerar código é a parte fácil. O que dá trabalho é tocar várias mudanças ao mesmo tempo, revisar cada uma e levar tudo até a `main` sem perder o fio.
+A IA muda rápido, então continuo ajustando meu jeito de trabalhar. Todos os dias testo alguma coisa nova em código real e só mantenho o que deixa a próxima mudança mais clara, segura ou rápida.
 
 `entrada da task → execução com escopo → commit → matriz de testes → revisão adversarial → evidências → PR → resolução de conflitos → merge verificado`
 
@@ -38,7 +38,7 @@ Gerar código é a parte fácil. O que dá trabalho é tocar várias mudanças a
 
 Eu separo a fila em tasks focadas e dou um slot de execução para cada uma. Um agente implementa enquanto outro confere o diff, roda os testes que importam ou tenta quebrar o resultado. Mesmo assim, toda mudança precisa de escopo claro, commit revisável, evidência dos testes, PR e confirmação de que o merge chegou de verdade ao remoto.
 
-É essa vantagem que estou construindo: ritmo de time grande, com o cuidado que eu esperaria de um bom desenvolvedor sênior.
+Assim consigo tocar mais trabalho sem transformar revisão e verificação em etapas opcionais.
 
 ---
 
